@@ -1,0 +1,242 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="664" height="867" viewBox="15 10.7 664 867"><g><g transform="translate(150,15.9)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M90,0 H0 V30 H90 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V28.1 H86.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M45,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M67.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M90,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M90,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M90,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M67.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M45,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M22.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M22.5,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(90,15)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(90,15)"/><rect stroke-width="0" fill="none" width="82.4" height="24.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="41.2" y="8">sensor</tspan><tspan x="41.2" y="29">302</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 27.2 31 55.2 31"/></g><g transform="translate(15,69)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V32.3 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V30.4 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,8.1 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,16.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,24.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,32.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,32.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,32.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,24.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,16.2 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,8.1 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,6.2)"/><path stroke="#000000" fill="none" d="M360.1,16.2 C377,33.1 383,-0.8 400 16.2"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,6.2)" text-anchor="middle"><tspan x="20" y="16.3">402</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="26.7" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="9.1">receive an input signal representing a physical</tspan><tspan x="176.2" y="30.1">object</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 195 46 195 61" fill="none"/><path fill="black" stroke="black" d="" transform="translate(195,46) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(191,69) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(195, 53.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(15,118.1)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V45 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,12.5)"/><path stroke="#000000" fill="none" d="M360.1,22.6 C377,39.5 383,5.6 400 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,12.5)" text-anchor="middle"><tspan x="20" y="16.3">404</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="15.5">identify a real world value entry in a sensor</tspan><tspan x="176.2" y="36.5">table based on the input signal</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 195 101 195 110" fill="none"/><path fill="black" stroke="black" d="" transform="translate(195,101) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(191,118) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(195, 105.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(17.1,186.3)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V45 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,12.5)"/><path stroke="#000000" fill="none" d="M360.1,22.6 C377,39.5 383,5.6 400 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,12.5)" text-anchor="middle"><tspan x="20" y="16.3">406</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="15.5">fetch an input correlithm object in the sensor</tspan><tspan x="176.2" y="36.5">table linked with the real world value entry</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 197 163 197 178" fill="none"/><path fill="black" stroke="black" d="" transform="translate(197,163) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(193,186) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(197, 170.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(15,254.3)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V30 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V28.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,5)"/><path stroke="#000000" fill="none" d="M360.1,15.1 C377,32 383,-1.9 400 15"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,5)" text-anchor="middle"><tspan x="20" y="16.3">408</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="24.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="18.5">output the input correlithm object</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 195 231 195 246" fill="none"/><path fill="black" stroke="black" d="" transform="translate(195,231) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(191,254) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(195, 238.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 105 284 105 867 135 960" fill="none"/><path fill="black" stroke="black" d="" transform="translate(105,284) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="" transform="translate(135,960) scale(1,1) rotate(-107.9)"/><g><g label-idx="0" cursor="move" transform="translate(105, 624.4)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(370.8,15.9)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M90,0 H0 V30 H90 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V28.1 H86.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M45,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M67.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M90,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M90,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M90,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M67.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M45,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M22.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M22.5,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(90,15)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(90,15)"/><rect stroke-width="0" fill="none" width="82.4" height="24.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="41.2" y="18.5">node 304</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 47.7 21 75.7 21"/></g><g transform="translate(212.1,295)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M405,0 H0 V60 H405 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V58.1 H401.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M202.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M303.8,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M405,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M405,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M405,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M303.8,60 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M202.5,60 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M101.3,60 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M101.3,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(445,20)"/><path stroke="#000000" fill="none" d="M405.1,30.1 C422,47 428,13.1 445 30"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(445,20)" text-anchor="middle"><tspan x="20" y="16.3">410</tspan></text><rect stroke-width="0" fill="none" width="397.4" height="54.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="198.7" y="12.5">determine distance between the input correlithm</tspan><tspan x="198.7" y="33.5">objects and each source correlithm object in a node</tspan><tspan x="198.7" y="54.5">table</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 415 46 415 287" fill="none"/><path fill="black" stroke="black" d="" transform="translate(415,46) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(411,295) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(415, 166.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(212.1,372.4)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M405,0 H0 V45 H405 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H401.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M202.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M303.8,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M405,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M405,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M405,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M303.8,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M202.5,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M101.3,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M101.3,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(445,12.5)"/><path stroke="#000000" fill="none" d="M405.1,22.6 C422,39.5 428,5.6 445 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(445,12.5)" text-anchor="middle"><tspan x="20" y="16.3">412</tspan></text><rect stroke-width="0" fill="none" width="397.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="198.7" y="15.5">identify a source correlithm object from the node</tspan><tspan x="198.7" y="36.5">table with the shortest distance</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 415 355 415 364" fill="none"/><path fill="black" stroke="black" d="" transform="translate(415,355) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(411,372) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(415, 359.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(212.1,440.4)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M405,0 H0 V45 H405 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H401.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M202.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M303.8,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M405,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M405,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M405,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M303.8,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M202.5,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M101.3,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M101.3,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(445,12.5)"/><path stroke="#000000" fill="none" d="M405.1,22.6 C422,39.5 428,5.6 445 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(445,12.5)" text-anchor="middle"><tspan x="20" y="16.3">414</tspan></text><rect stroke-width="0" fill="none" width="397.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="198.7" y="15.5">fetch a target correlithm object in the node table</tspan><tspan x="198.7" y="36.5">linked with the source correlithm object</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 415 417 415 432" fill="none"/><path fill="black" stroke="black" d="" transform="translate(415,417) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(411,440) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(415, 424.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(212.1,510.3)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M405,0 H0 V30 H405 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V28.1 H401.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M202.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M303.8,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M405,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M405,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M405,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M303.8,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M202.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M101.3,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M101.3,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(445,5)"/><path stroke="#000000" fill="none" d="M405.1,15.1 C422,32 428,-1.9 445 15"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(445,5)" text-anchor="middle"><tspan x="20" y="16.3">416</tspan></text><rect stroke-width="0" fill="none" width="397.4" height="24.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="198.7" y="18.5">output the target correlithm object</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 415 485 415 502" fill="none"/><path fill="black" stroke="black" d="" transform="translate(415,485) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(411,510) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(415, 493.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(589,15.9)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M75,0 H0 V30 H75 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V28.1 H71.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M37.5,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M56.3,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M75,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M75,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M75,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M56.3,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M37.5,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M18.8,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,7.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M18.8,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(75,15)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(75,15)"/><rect stroke-width="0" fill="none" width="67.4" height="24.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="33.7" y="8">actor</tspan><tspan x="33.7" y="29">306</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 19.7 31 47.7 31"/></g><g><path stroke="black" stroke-dasharray="none" d="M 375 270 412 270" fill="none"/><path fill="black" stroke="black" d="" transform="translate(375,270) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(420,274) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(393.5, 270)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(304,579.3)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V45 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,12.5)"/><path stroke="#000000" fill="none" d="M360.1,22.6 C377,39.5 383,5.6 400 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,12.5)" text-anchor="middle"><tspan x="20" y="16.3">418</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="5">determine distances between the target</tspan><tspan x="176.2" y="26">correlithm object and each output correlithm</tspan><tspan x="176.2" y="47">object in an actor table</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g transform="translate(304,641.6)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V45 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,12.5)"/><path stroke="#000000" fill="none" d="M360.1,22.6 C377,39.5 383,5.6 400 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,12.5)" text-anchor="middle"><tspan x="20" y="16.3">420</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="15.5">identify an output correlithm object from the</tspan><tspan x="176.2" y="36.5">actor table with the shortest distance</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 484 624 484 634" fill="none"/><path fill="black" stroke="black" d="" transform="translate(484,624) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(480,642) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(484, 629)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 608 46 575 571" fill="none"/><path fill="black" stroke="black" d="" transform="translate(608,46) scale(1,1) rotate(-266.4)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(570,578.7) scale(1,1) rotate(-86.4)"/><g><g label-idx="0" cursor="move" transform="translate(591.5, 308.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 313 540 271 892" fill="none"/><path fill="black" stroke="black" d="" transform="translate(313,540) scale(1,1) rotate(-263.2)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(266,899.5) scale(1,1) rotate(-83.2)"/><g><g label-idx="0" cursor="move" transform="translate(292, 716)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 617 525 637 525" fill="none"/><path fill="black" stroke="black" d="" transform="translate(617,525) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(645,529) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(627, 525)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(304,709.6)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V45 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V43.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,45 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,33.8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,22.5 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,11.3 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,12.5)"/><path stroke="#000000" fill="none" d="M360.1,22.6 C377,39.5 383,5.6 400 22.5"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,12.5)" text-anchor="middle"><tspan x="20" y="16.3">422</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="39.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="15.5">fetch a real world value in the actor table</tspan><tspan x="176.2" y="36.5">linked with the output correlithm object</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 484 687 484 702" fill="none"/><path fill="black" stroke="black" d="" transform="translate(484,687) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(480,710) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(484, 694.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(304,777.6)"><g><g>
+<path data-relative-d="M{width},0 H0 V{height} H{width} z" d="M360,0 H0 V31.9 H360 z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{0.1cm},{0.1cm} V{height-0.1cm} H{width-0.1cm} V{0.1cm} z" d="M3.8,3.8 V30.1 H356.2 V3.8 z" fill="none"/>
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M180,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M270,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.3*height} l0.1,0 l0,0.1 z" d="M360,8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M360,16 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.8*height} l0.1,0 l0,0.1 z" d="M360,24 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M270,31.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M180,31.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M90,31.9 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.8*height} l0.1,0 l0,0.1 z" d="M0,24 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,16 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.3*height} l0.1,0 l0,0.1 z" d="M0,8 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M90,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(400,6)"/><path stroke="#000000" fill="none" d="M360.1,16 C377,33 383,-0.9 400 16"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(400,6)" text-anchor="middle"><tspan x="20" y="16.3">424</tspan></text><rect stroke-width="0" fill="none" width="352.4" height="26.3" transform="translate(3.8,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3.8,3.8)" text-anchor="middle"><tspan x="176.2" y="19.4">output the real world output value</tspan></text><path stroke="#000000" fill="none" transform="translate(3.8,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 484 755 484 770" fill="none"/><path fill="black" stroke="black" d="" transform="translate(484,755) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(480,778) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(484, 762.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(405,837)"><g><g>
+<path data-relative-d="M{width - min(1cm,width*0.2)},0  H{min(1cm,width*0.2)}  C{min(1cm,width*0.2)/3},0  0,{height/6}  0,{height/2}  C0,{height - height/6}  {min(1cm,width*0.2)/3},{height}  {min(1cm,width*0.2)},{height}  H{width - min(1cm,width*0.2)}  C{width - (min(1cm,width*0.2)/3)},{height}  {width},{height - height/6}  {width},{height/2}  C{width},{height/6}  {width - (min(1cm,width*0.2)/3)},0  {width - min(1cm,width*0.2)},0  z" d="M125.5,0  H31.4  C10.5,0  0,5  0,15  C0,25  10.5,30  31.4,30  H125.5  C146.4,30  156.8,25  156.8,15  C156.8,5  146.4,0  125.5,0  z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<path data-relative-d="M{5mm},{1mm} V{height-0.5mm} H{width-5mm} V{1mm} z" d="M18.9,3.8 V28.1 H137.9 V3.8 z" fill="none"/>
+
+<path fill="none" data-relative-d="M{0.5*width},0 l0.1,0 l0,0.1 z" d="M78.4,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},0 l0.1,0 l0,0.1 z" d="M117.6,0 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M156.8,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M156.8,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{width},{0.5*height} l0.1,0 l0,0.1 z" d="M156.8,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.8*width},{height} l0.1,0 l0,0.1 z" d="M117.6,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.5*width},{height} l0.1,0 l0,0.1 z" d="M78.4,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},{height} l0.1,0 l0,0.1 z" d="M39.2,30 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M0,{0.5*height} l0.1,0 l0,0.1 z" d="M0,15 l0.1,0 l0,0.1 z"/>
+<path fill="none" data-relative-d="M{0.3*width},0 l0.1,0 l0,0.1 z" d="M39.2,0 l0.1,0 l0,0.1 z"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(156.8,15)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(156.8,15)"/><rect stroke-width="0" fill="none" width="119" height="24.3" transform="translate(18.9,3.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(18.9,3.8)" text-anchor="middle"><tspan x="59.5" y="18.5">end</tspan></text><path stroke="#000000" fill="none" transform="translate(18.9,3.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 483 810 483 829" fill="none"/><path fill="black" stroke="black" d="" transform="translate(483,810) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(479,837) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(483, 819.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs/></svg>

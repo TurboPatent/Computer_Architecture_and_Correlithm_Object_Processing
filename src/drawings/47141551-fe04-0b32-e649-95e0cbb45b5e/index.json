@@ -1,0 +1,1134 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idaf8ea03b-33fb-6234-d8dc-053b43306a90\" data-value=\"30a23679-365e-ae58-891e-a91b8170611b\" data-role=\"tag\">correlithm object process flow</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 480,
+          "y": 72.92809116619492
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "4b9f3b14-9a7a-4532-8b70-9be25eed00c3",
+        "z": 1,
+        "objectID": "98d3439c-ac27-fded-c16c-af81bc67cfaf",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-type=\"term\" id=\"idc18e41f2-acdf-20fb-d537-f6c6d598ed4f\" data-value=\"58c9b2e6-5718-d289-ac30-686f462a7c8d\" data-role=\"tag\">sensor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 149.99999999999986,
+          "y": 15.901457461098587
+        },
+        "size": {
+          "width": 90,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id3cfc91d6-9c97-b21d-c413-55ea499bdc6b\" data-value=\"58c9b2e6-5718-d289-ac30-686f462a7c8d\" data-role=\"tag\">sensor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "b2469667-3768-46df-837c-a1b3f7a18bf5",
+        "z": 2,
+        "objectID": "3667a583-0ac2-8ff5-fbd3-063beee34c05",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 14.999999999999858,
+          "y": 68.95459201670164
+        },
+        "size": {
+          "width": 360,
+          "height": 32.319942325762824
+        },
+        "angle": 0,
+        "label": "<p>receive an input signal representing a physical object</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 330,
+          "leadLineLength": 30
+        },
+        "id": "82c7fd54-a816-45ee-83b6-988e63bb38f6",
+        "z": 3,
+        "objectID": "66888e1b-6345-6566-7fa7-d421cae68b74",
+        "number": 2
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "b2469667-3768-46df-837c-a1b3f7a18bf5"
+        },
+        "target": {
+          "id": "82c7fd54-a816-45ee-83b6-988e63bb38f6"
+        },
+        "id": "cd1e4563-baeb-43b8-8397-a32671ad88da",
+        "z": 4,
+        "objectID": "212fbcac-3a74-2f90-4153-f9cd1ddf2ea2"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 14.999999999999886,
+          "y": 118.14018131398979
+        },
+        "size": {
+          "width": 360,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>identify a real world value entry in a sensor table based on the input signal</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 330,
+          "leadLineLength": 30
+        },
+        "id": "01a92b0d-0820-4043-ac76-5ffe9c59ef63",
+        "z": 5,
+        "objectID": "9fbc01b7-4e44-1cb8-3232-a4defa7bb707",
+        "number": 4
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "82c7fd54-a816-45ee-83b6-988e63bb38f6"
+        },
+        "target": {
+          "id": "01a92b0d-0820-4043-ac76-5ffe9c59ef63"
+        },
+        "id": "b65edc07-35a7-4ab2-aea5-5b3ef85a0456",
+        "z": 6,
+        "objectID": "001870f7-cd5a-d4f2-0b02-d6125ee42293"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 17.09185268519255,
+          "y": 186.26720173831544
+        },
+        "size": {
+          "width": 360,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>fetch an <span data-type=\"term\" id=\"id968d2283-088a-991e-8e72-dd904631733f\" data-value=\"0b8693a4-066d-088e-e094-1066b4e50eab\" data-role=\"tag\">input correlithm object</span>&nbsp;in the <span data-type=\"term\" id=\"ide5fd8810-2144-422d-a26b-a02f4148c7a3\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span>&nbsp;linked with the <span data-type=\"term\" id=\"id5ee350b2-b8a8-d792-2d1f-745b793e4698\" data-value=\"f34116b8-03c2-b820-e50c-877c51402f47\" data-role=\"tag\">real world value entry</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 330,
+          "leadLineLength": 34
+        },
+        "id": "3dd2124b-90fa-4b48-84c3-70baf746cc34",
+        "z": 7,
+        "objectID": "c8d73c30-4ca4-7a02-ede4-bd6160a6ae3d",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "01a92b0d-0820-4043-ac76-5ffe9c59ef63"
+        },
+        "target": {
+          "id": "3dd2124b-90fa-4b48-84c3-70baf746cc34"
+        },
+        "id": "755740d9-ef29-4e8c-8abc-3e96a17a53be",
+        "z": 8,
+        "objectID": "9b6bca41-e61e-e7f2-a5e4-4e931b6e7caa"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 14.999999999999858,
+          "y": 254.26720173831535
+        },
+        "size": {
+          "width": 360,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p>output the <span data-type=\"term\" id=\"id86dd521a-625e-6018-e3cf-9f103557bd58\" data-value=\"0b8693a4-066d-088e-e094-1066b4e50eab\" data-role=\"tag\">input correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240
+        },
+        "id": "9faa0b3d-bc26-4476-8de7-25fc45a3e541",
+        "z": 9,
+        "objectID": "b394a381-122a-3507-592e-eccf0d90ecba",
+        "number": 8
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "3dd2124b-90fa-4b48-84c3-70baf746cc34"
+        },
+        "target": {
+          "id": "9faa0b3d-bc26-4476-8de7-25fc45a3e541"
+        },
+        "id": "81c0638c-fe44-4940-b200-f22e4222784e",
+        "z": 10,
+        "objectID": "68b3868d-0b0e-3bc9-42df-4877db950789"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9faa0b3d-bc26-4476-8de7-25fc45a3e541",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "25%",
+              "dy": "48%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 135,
+          "y": 960
+        },
+        "id": "3ff64ed8-cb62-4fa6-a543-776416314457",
+        "z": 11,
+        "objectID": "157fd450-4223-61b1-9670-109b3d6d503c",
+        "vertices": [
+          {
+            "x": 105,
+            "y": 867
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p>node</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 370.81629462961473,
+          "y": 15.901457461098587
+        },
+        "size": {
+          "width": 90,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id7210c2cb-055f-7c42-a975-ddfb1e6d47a9\" data-value=\"ca686832-01d7-e89c-847a-9142f5472bbf\" data-role=\"tag\">node</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "3beb33c2-5a04-4cbc-beb6-3200dc6f942a",
+        "z": 12,
+        "objectID": "f6bc5fee-c305-5478-5bd3-3ed15941c59b",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 212.12076766536802,
+          "y": 294.9726647476881
+        },
+        "size": {
+          "width": 405,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p>determine <span data-type=\"term\" id=\"ida9df84c3-83ed-9a1b-8a28-bd4a98466ca1\" data-value=\"a7130bf3-5dfc-da93-600d-d5dc2691454d\" data-role=\"tag\">distance</span>&nbsp;between the <span data-type=\"term\" id=\"id998f9f18-3ccb-381e-3a91-9f22d8ef739b\" data-value=\"1e4ad91a-327d-0bf2-1df2-080d6a93aad0\" data-role=\"tag\">input correlithm objects</span>&nbsp;and each <span data-type=\"term\" id=\"idc3ce6a48-4cc5-743f-48e2-f5b8184e02e4\" data-value=\"5c72e6b2-4ffb-3813-0b6c-1e0a94a49625\" data-role=\"tag\">source correlithm object</span>&nbsp;in a <span data-type=\"term\" id=\"idf9f6ed44-4f85-25c1-988b-555704047534\" data-value=\"ae1b3ef0-cacb-d6d8-9298-264e2067ea1a\" data-role=\"tag\">node table</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "28101267-e888-4daf-84db-29c560835ed9",
+        "z": 13,
+        "objectID": "892059ee-2f23-1217-d9ec-3294ae11ee12",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "3beb33c2-5a04-4cbc-beb6-3200dc6f942a"
+        },
+        "target": {
+          "id": "28101267-e888-4daf-84db-29c560835ed9"
+        },
+        "id": "f4bd591a-82d9-4eb3-81c5-b69bb99d5adc",
+        "z": 14,
+        "objectID": "4a1330c9-dea8-2f87-5c06-ef9f97a9e330"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 212.12076766536802,
+          "y": 372.35145401271495
+        },
+        "size": {
+          "width": 405,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>identify a <span data-type=\"term\" id=\"id32e9b750-f833-b549-c8c3-92b7cb256b9d\" data-value=\"5c72e6b2-4ffb-3813-0b6c-1e0a94a49625\" data-role=\"tag\">source correlithm object</span>&nbsp;from the node table with the <span data-type=\"term\" id=\"idd9f19c00-5bce-14d4-5f37-2bd5cbf975b5\" data-value=\"c1e2777e-7239-21bd-da4f-eb0f946bbd06\" data-role=\"tag\">shortest distance</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "737b6519-7f13-49e3-9499-8a8f9d19cc55",
+        "z": 16,
+        "objectID": "24488aeb-613f-c763-ccf5-7cc3a682a6fa",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "28101267-e888-4daf-84db-29c560835ed9"
+        },
+        "target": {
+          "id": "737b6519-7f13-49e3-9499-8a8f9d19cc55"
+        },
+        "id": "2d897749-a07a-4fe2-bf11-94c73eb14df8",
+        "z": 17,
+        "objectID": "702abc67-fbf1-e5c7-6e81-821279fa99fa"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 212.12076766536802,
+          "y": 440.3514540127147
+        },
+        "size": {
+          "width": 405,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>fetch a <span data-type=\"term\" id=\"ida38a2366-c833-e016-6d72-39f0fc1784d7\" data-value=\"7bda884a-a141-ea61-c3f4-c361d8fb1f26\" data-role=\"tag\">target correlithm object</span>&nbsp;in the <span data-type=\"term\" id=\"id01e83660-e83c-79a9-8c73-7ac614dbb239\" data-value=\"ae1b3ef0-cacb-d6d8-9298-264e2067ea1a\" data-role=\"tag\">node table</span>&nbsp;linked with the <span data-type=\"term\" id=\"idf2e9657e-406d-7871-afa4-47adee577df5\" data-value=\"5c72e6b2-4ffb-3813-0b6c-1e0a94a49625\" data-role=\"tag\">source correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "a8d906b3-5c4b-40ef-b2ab-3677bd044ec6",
+        "z": 18,
+        "objectID": "9ead52ad-d23d-9dc6-e43b-74db369f55e3",
+        "number": 14
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "737b6519-7f13-49e3-9499-8a8f9d19cc55"
+        },
+        "target": {
+          "id": "a8d906b3-5c4b-40ef-b2ab-3677bd044ec6"
+        },
+        "id": "645ae198-ec4e-409d-968a-72c3e871b3cc",
+        "z": 19,
+        "objectID": "841fed0c-fc0a-bd78-1779-dcabd5071733"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 212.12076766536802,
+          "y": 510.2644140597582
+        },
+        "size": {
+          "width": 405,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p>output the <span data-type=\"term\" id=\"id4062bb93-21b5-95ec-f821-26eb9305ca79\" data-value=\"7bda884a-a141-ea61-c3f4-c361d8fb1f26\" data-role=\"tag\">target correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "450bf29a-cb27-41a7-9443-055ee0fd9b9d",
+        "z": 20,
+        "objectID": "c6ad4e9e-0c6c-ec43-04f8-e4161d631e61",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "a8d906b3-5c4b-40ef-b2ab-3677bd044ec6"
+        },
+        "target": {
+          "id": "450bf29a-cb27-41a7-9443-055ee0fd9b9d"
+        },
+        "id": "54a05e81-351c-49a2-a9c1-4b2426cb459a",
+        "z": 21,
+        "objectID": "f798abea-2946-f2a1-9d83-c1ae74cf5577"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "astyped",
+        "name": "<p><span data-type=\"term\" id=\"idd8e5c865-7a64-8dd5-c182-0de738d48972\" data-value=\"7f1eb476-17da-dc99-a02a-709fc6a43952\" data-role=\"tag\">actor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 589,
+          "y": 15.901457461098552
+        },
+        "size": {
+          "width": 75,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id52e2d64c-6d2f-bcef-3642-7c02202500f7\" data-value=\"7f1eb476-17da-dc99-a02a-709fc6a43952\" data-role=\"tag\">actor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "10a7910e-d3d2-4f50-8adc-14fca7c6efc2",
+        "z": 22,
+        "objectID": "cf56b448-4e54-6e4e-a50e-5bb0bf325585",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9faa0b3d-bc26-4476-8de7-25fc45a3e541",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "67%",
+              "dy": "52%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 420,
+          "y": 270
+        },
+        "id": "a83b43ad-cdf1-41fc-8703-6bc85f1a4cbc",
+        "z": 23,
+        "objectID": "d3401e60-6678-e570-9418-4117d699784a",
+        "vertices": []
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 304,
+          "y": 579.2556731941294
+        },
+        "size": {
+          "width": 360,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>determine <span data-type=\"term\" id=\"id7ffd691f-775b-26bc-c8ea-5800251caa20\" data-value=\"3c27c8fe-dff4-dfe8-a9d8-d9cc61ec77e0\" data-role=\"tag\">distances</span>&nbsp;between the <span data-type=\"term\" id=\"id1ed7118c-4406-c455-a943-5924cf92ae7b\" data-value=\"7bda884a-a141-ea61-c3f4-c361d8fb1f26\" data-role=\"tag\">target correlithm object</span>&nbsp;and each <span data-type=\"term\" id=\"id516b792d-f54e-d590-a2a1-7c8015160de5\" data-value=\"f5be18db-de1d-9523-95a1-eb9cbd02fd84\" data-role=\"tag\">output correlithm object</span>&nbsp;in an <span data-type=\"term\" id=\"id73222400-ce04-8e27-a2b5-ad827972f64e\" data-value=\"636a9b26-3dad-8870-c5f3-6fd67498bbf5\" data-role=\"tag\">actor table</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "be79da2c-1b81-4013-b5af-0cdb8aea81a9",
+        "z": 24,
+        "objectID": "46e6786b-67f9-8c55-cbe7-30bfdf67a9b0",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 304,
+          "y": 641.630070728292
+        },
+        "size": {
+          "width": 360,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>identify an <span data-type=\"term\" id=\"idc6385316-5bc1-06d3-4a7f-75dd16f9a557\" data-value=\"f5be18db-de1d-9523-95a1-eb9cbd02fd84\" data-role=\"tag\">output correlithm object</span>&nbsp;from the <span data-type=\"term\" id=\"ide628297f-3fbf-183c-fd32-983c32eb4f2f\" data-value=\"636a9b26-3dad-8870-c5f3-6fd67498bbf5\" data-role=\"tag\">actor table</span>&nbsp;with the <span data-type=\"term\" id=\"id59d3ecb3-6e95-0c9c-3f7f-16bb85c1ad2b\" data-value=\"c1e2777e-7239-21bd-da4f-eb0f946bbd06\" data-role=\"tag\">shortest distance</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "f8a43a35-4db3-4cbe-9fcc-459ac26e0293",
+        "z": 26,
+        "objectID": "dc41bb5f-655b-550c-22d8-881d14b750ee",
+        "number": 20
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "be79da2c-1b81-4013-b5af-0cdb8aea81a9"
+        },
+        "target": {
+          "id": "f8a43a35-4db3-4cbe-9fcc-459ac26e0293"
+        },
+        "id": "ba3a5a26-c608-45b1-8f6a-38744dd44432",
+        "z": 27,
+        "objectID": "ffad79df-864e-b54f-3e41-28c71e17f56d"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "10a7910e-d3d2-4f50-8adc-14fca7c6efc2",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "71%",
+              "dy": "47%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "be79da2c-1b81-4013-b5af-0cdb8aea81a9",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "94%",
+              "dy": "68%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "4d20d1fe-008b-4013-acc1-1d473248fa0f",
+        "z": 28,
+        "objectID": "2a34fcfb-78c2-8b55-1e29-370a637d8490"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "450bf29a-cb27-41a7-9443-055ee0fd9b9d",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "14%",
+              "dy": "66%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 270,
+          "y": 900
+        },
+        "id": "64a20529-35f4-4136-ac2d-5705fe3cc3b0",
+        "z": 29,
+        "objectID": "5872c9b5-ab4e-e371-152a-3435764cde3d"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "450bf29a-cb27-41a7-9443-055ee0fd9b9d"
+        },
+        "target": {
+          "x": 645,
+          "y": 525
+        },
+        "id": "a0f517cb-b6fb-4971-af1b-8ac94557b431",
+        "z": 30,
+        "objectID": "4ac1a677-24c4-5040-aac5-572b7969062c"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 304,
+          "y": 709.6300707282923
+        },
+        "size": {
+          "width": 360,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>fetch a <span data-type=\"term\" id=\"id3402414e-cc74-bd59-9682-90b12965a609\" data-value=\"48ff6697-552c-0681-b327-95079cef020c\" data-role=\"tag\">real world value</span>&nbsp;in the <span data-type=\"term\" id=\"id335a9ae0-35bd-3f3c-21b1-c8ae3ca78bd3\" data-value=\"636a9b26-3dad-8870-c5f3-6fd67498bbf5\" data-role=\"tag\">actor table</span>&nbsp;linked with the <span data-type=\"term\" id=\"id65889ba4-1202-4b86-e8cd-197424721efc\" data-value=\"f5be18db-de1d-9523-95a1-eb9cbd02fd84\" data-role=\"tag\">output correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "1b5846a0-088e-4389-a593-96036f3e6ce7",
+        "z": 31,
+        "objectID": "c6dea8c1-b722-6b4a-7014-00086a01e080",
+        "number": 22
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "f8a43a35-4db3-4cbe-9fcc-459ac26e0293"
+        },
+        "target": {
+          "id": "1b5846a0-088e-4389-a593-96036f3e6ce7"
+        },
+        "id": "97c1ab51-c336-4eb8-9914-6060eb708dae",
+        "z": 32,
+        "objectID": "43b4684f-94ac-3951-5b2b-0407c120ead0"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "flowchartRectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 304,
+          "y": 777.6300707282923
+        },
+        "size": {
+          "width": 360,
+          "height": 31.94830732066279
+        },
+        "angle": 0,
+        "label": "<p>output the <span data-type=\"term\" id=\"id810f337c-0f92-0833-b23a-7f3289010d1f\" data-value=\"90c90687-23f2-def8-8e60-b51e0478604c\" data-role=\"tag\">real world output value</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "df4bdb86-ccf3-4e13-8500-f47fbefd1cd8",
+        "z": 33,
+        "objectID": "d297d604-9ad1-75fd-e964-d5732825e43d",
+        "number": 24
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "1b5846a0-088e-4389-a593-96036f3e6ce7"
+        },
+        "target": {
+          "id": "df4bdb86-ccf3-4e13-8500-f47fbefd1cd8"
+        },
+        "id": "0fda6c47-5012-4951-a8e4-adcb43028648",
+        "z": 34,
+        "objectID": "c286f62b-d3d5-e3d9-2827-6de76696810e"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "pill",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "astyped",
+        "name": "done block",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 405,
+          "y": 836.9999389648438
+        },
+        "size": {
+          "width": 156.81629462961473,
+          "height": 30
+        },
+        "angle": 0,
+        "label": "<p>end</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 180,
+          "leadLineAngle": 180
+        },
+        "id": "be113473-d2d9-4716-afd3-5a760b4c7e9e",
+        "z": 35,
+        "objectID": "7ba688b2-4a80-acc3-8747-d6d3051d0c5e",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "df4bdb86-ccf3-4e13-8500-f47fbefd1cd8"
+        },
+        "target": {
+          "id": "be113473-d2d9-4716-afd3-5a760b4c7e9e"
+        },
+        "id": "247156a9-067e-4a44-bbb0-2ca0b860f35a",
+        "z": 36,
+        "objectID": "b169f4c4-069e-7c78-0504-b325bb8ab0f4"
+      }
+    ],
+    "tpVersion": 2
+  }
+}

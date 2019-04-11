@@ -1,0 +1,729 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id4cd1542b-cf90-a12f-4eed-ab56561d78bd\" data-value=\"f5b36135-42d7-43a2-b0f9-677251b55fac\" data-role=\"tag\">computer architecture</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 602.8250007629395,
+          "y": 18.390625
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "54db3140-eb2c-4ebf-9732-2dcf84696abb",
+        "z": 1,
+        "objectID": "6e7ab649-8bef-b7d7-8c64-bae573338ad6",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 14.999999999999773,
+          "y": 75.0000000000004
+        },
+        "size": {
+          "width": 510,
+          "height": 225
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id424e8853-24a3-5270-95b8-e1c3a5385453\" data-value=\"9b746a9f-681f-54a8-2790-0a226507ddfc\" data-role=\"tag\">processor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "9375454c-8226-4274-a184-f8185dc68f0e",
+        "z": 2,
+        "objectID": "c75ee191-67a7-b7ac-76d5-521be99e4bba",
+        "number": 2,
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 14.999999999999773,
+          "y": 375.0000000000018
+        },
+        "size": {
+          "width": 556.1714439392098,
+          "height": 360
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idef90f766-58be-42fa-20c6-27c611617519\" data-value=\"890c1932-d679-8411-12d5-ae95ad4a20af\" data-role=\"tag\">memory</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "fbff8a13-7c5f-4b4e-8479-39031a344690",
+        "z": 3,
+        "objectID": "1558bb32-4ad1-0eb6-75c6-325f74788df9",
+        "number": 4,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 579.4982223510742,
+          "y": 109.48814392089844
+        },
+        "size": {
+          "width": 84.50177764892578,
+          "height": 50.70106658935547
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ida326c6b8-1e82-b97c-2490-153122aa7678\" data-value=\"d0857a70-641a-53ef-2f23-2b8406bfa712\" data-role=\"tag\">network interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "fa8b001c-8fea-47ff-97eb-0682efb5d72d",
+        "z": 4,
+        "objectID": "56ea2edb-0ce7-2ab7-9aac-f4eb260c1850",
+        "number": 6,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "fa8b001c-8fea-47ff-97eb-0682efb5d72d"
+        },
+        "target": {
+          "id": "9375454c-8226-4274-a184-f8185dc68f0e",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "48%",
+              "dy": "27%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "cf4b428a-98dd-42d3-b69c-17903bfa7503",
+        "z": 5,
+        "objectID": "037853da-f6c3-65cd-eec1-c832a1f3a25c"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 579.4982223510742,
+          "y": 214.48814392089844
+        },
+        "size": {
+          "width": 84.50177764892578,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id83df7e55-466a-deec-5dd2-b35389dedc71\" data-value=\"c453c93d-bdef-3568-b906-a90558f3b449\" data-role=\"tag\">I/O interface</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "b6653c34-fa36-4401-a2fd-9da1e525bc25",
+        "z": 6,
+        "objectID": "d2e5a507-3c45-eec9-d249-39a1d7af9a85",
+        "number": 8,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 26
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "b6653c34-fa36-4401-a2fd-9da1e525bc25"
+        },
+        "target": {
+          "id": "9375454c-8226-4274-a184-f8185dc68f0e",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "50%",
+              "dy": "72%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "946b494c-7c9b-402d-b839-0be4c883de36",
+        "z": 7,
+        "objectID": "5ba12f84-45ca-4258-51d4-b8578a1dae84"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 135,
+          "y": 120
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idfe83f0aa-7c6c-5410-8d88-83e9832a4ca4\" data-value=\"58485c77-387c-4ff6-31e4-b9d746d36802\" data-role=\"tag\">sensor engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "6eadbd55-7b2e-436a-a400-e44b68b77bb4",
+        "z": 8,
+        "objectID": "71e0485e-bdc7-adf1-835f-88aa2a09ba5c",
+        "number": 10,
+        "numberPosition": {
+          "connectionAngle": 150,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 293.3857727050781,
+          "y": 120
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idf5d1ec6f-2882-fb82-496f-3ef1f66a704f\" data-value=\"c259d3e3-1caf-f842-c95e-148bb4eda228\" data-role=\"tag\">node engines</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "7c2e70b9-882f-4579-ac57-cc5848188a36",
+        "z": 9,
+        "objectID": "a02d3523-f2ee-de8c-b1b1-0a02ff885308",
+        "number": 12,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 360,
+          "y": 206.98814392089844
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id56d2205c-0fbe-b6f1-b6cc-68cf90672993\" data-value=\"d025b37d-d759-3742-9038-d7f2d5452557\" data-role=\"tag\">actor engines</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "10992772-fc5f-4a7d-aab0-d349c87d6c75",
+        "z": 10,
+        "objectID": "4ef92e3d-63ce-5108-65ff-9b191c0c7fbc",
+        "number": 14,
+        "numberPosition": {
+          "connectionAngle": 60,
+          "leadLineAngle": 60,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 45,
+          "y": 420
+        },
+        "size": {
+          "width": 150,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id0db43f04-f02e-0d04-f053-41416887942f\" data-value=\"9a85ddde-64f4-36fa-2f52-68287112d8e6\" data-role=\"tag\">sensor instructions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "c64154bd-0ca9-4ff8-889c-69f30a092116",
+        "z": 11,
+        "objectID": "e216726e-3d29-cd35-e46d-f07e3275153f",
+        "number": 16,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 15
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 45,
+          "y": 490
+        },
+        "size": {
+          "width": 150,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id3192e3a5-f140-5219-3957-77f17bd3234f\" data-value=\"7fb288d5-b80c-3274-c85e-509b598fd8c7\" data-role=\"tag\">node instructions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "bbd4ccd5-b974-80df-17b2-c324fd757787",
+        "z": 12,
+        "objectID": "6a699e31-012d-7009-1998-54bfbe5de4da",
+        "number": 18,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30,
+          "leadLineLength": 15
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 45,
+          "y": 564.8495524141535
+        },
+        "size": {
+          "width": 150,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd4594f10-97f9-b93b-055a-a4f5f94d3a91\" data-value=\"4132b75c-01f6-7ec1-d608-f5e11d38541b\" data-role=\"tag\">actor instructions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "145f6d1b-f170-c86c-0218-c11a32449815",
+        "z": 13,
+        "objectID": "5ce8fc2a-be3a-a451-a391-d4865aa02c62",
+        "number": 20,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30,
+          "leadLineLength": 15
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 45,
+          "y": 638.34423343081
+        },
+        "size": {
+          "width": 150,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id63747a4e-5dc2-0735-2157-447d9793b46e\" data-value=\"5f256a9d-3157-abbc-7e9c-650c943dc46f\" data-role=\"tag\">delay node instructions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "64ded5bf-9a4e-474a-8968-69eee51ce11f",
+        "z": 14,
+        "objectID": "80550da3-1528-0fa6-616d-77c49444b19a",
+        "number": 22,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 240,
+          "y": 638.3442334308099
+        },
+        "size": {
+          "width": 135,
+          "height": 60.000000000000114
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id5643afc1-fe2f-2cc3-ef8f-e05f785dba9d\" data-value=\"b608bd90-093c-7f05-5492-98361c6c59dc\" data-role=\"tag\">boss instructions</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "87f8ca76-a043-461e-bc0c-2182c2d1b19f",
+        "z": 15,
+        "objectID": "9d0065c9-bc3c-e543-7243-0215a0d095b2",
+        "number": 24,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 90,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idc8173067-3480-947f-47c7-eb2f1b06a866\" data-value=\"5ad4a4ea-204a-1c16-49ac-79a020991379\" data-role=\"tag\">actor tables</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 398.3857727050781,
+          "y": 638.34423343081
+        },
+        "size": {
+          "width": 149.99999999999977,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id893704b3-62a2-f5fb-9088-675e8046d0fc\" data-value=\"5ad4a4ea-204a-1c16-49ac-79a020991379\" data-role=\"tag\">actor tables</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "b5d96a69-2034-3a9b-9c11-43591fc70e12",
+        "z": 16,
+        "objectID": "188506ff-c47b-a0aa-5113-51fed0c25aba",
+        "number": 10,
+        "numberPosition": {
+          "connectionAngle": 150,
+          "leadLineAngle": 120,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idb590c50e-7987-1240-2686-59afc3bd7139\" data-value=\"ae1b3ef0-cacb-d6d8-9298-264e2067ea1a\" data-role=\"tag\">node table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 398.3857727050781,
+          "y": 564.8495524141535
+        },
+        "size": {
+          "width": 149.99999999999977,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id984c6c38-c700-1bdd-2c63-4b0223622e5b\" data-value=\"ab95fa46-c219-bb4e-78a4-f613b2c6425e\" data-role=\"tag\">node tables</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "8ec55313-70c6-491c-a63f-c4a16b62f0fe",
+        "z": 17,
+        "objectID": "dd8e76e2-0d93-c46c-1db8-52ecc29d0574",
+        "number": 0,
+        "numberPosition": {
+          "connectionAngle": 150,
+          "leadLineAngle": 150,
+          "leadLineLength": 34
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id9e59d48b-3a98-19f7-0b10-c555d0e62b7c\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 398.3857727050781,
+          "y": 490
+        },
+        "size": {
+          "width": 149.99999999999977,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id898511d5-03f0-1f3d-eee6-1341fa31dc36\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "b3d82b94-d710-c3ed-33b4-f8bb85ecc0d5",
+        "z": 18,
+        "objectID": "38296170-ce21-65c2-349a-dadd4e57145e",
+        "number": 8,
+        "numberPosition": {
+          "connectionAngle": 150,
+          "leadLineAngle": 150,
+          "leadLineLength": 34
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 398.3857727050781,
+          "y": 420
+        },
+        "size": {
+          "width": 149.99999999999977,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idbb88fe6f-843d-9d45-f5d5-b65e2d99a14e\" data-value=\"2637cfeb-ec4f-3755-c99e-85a5722e1265\" data-role=\"tag\">boss table</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "d092e20a-042c-4665-9a08-d95ee05e295f",
+        "z": 19,
+        "objectID": "27abf8c1-8719-fc3d-9af1-3db469415239",
+        "number": 26,
+        "numberPosition": {
+          "connectionAngle": 120,
+          "leadLineAngle": 150,
+          "leadLineLength": 38
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 45,
+          "y": 206.98814392089844
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id84904614-b05a-c39b-63a0-6f8e4a297024\" data-value=\"0756987e-7891-3ff1-c06c-b9c35c6f4ac7\" data-role=\"tag\">delay node engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "fc272276-3df3-47d1-8216-dcf9bbd897a5",
+        "z": 20,
+        "objectID": "8231870c-d8fb-4b92-fcc8-be62f5883e11",
+        "number": 28,
+        "numberPosition": {
+          "connectionAngle": 120,
+          "leadLineAngle": 120,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 205,
+          "y": 206.98814392089844
+        },
+        "size": {
+          "width": 105,
+          "height": 60
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id78150c2a-e72f-33a9-4812-5aa7f968b06f\" data-value=\"5b7751fe-c9aa-9d4d-cbc3-64841684cb11\" data-role=\"tag\">boss engine</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "9d110873-1fce-078a-da84-ce26df190a2b",
+        "z": 21,
+        "objectID": "9ba48de7-7bfc-185e-0f7a-c5a9cc9d4250",
+        "number": 30,
+        "numberPosition": {
+          "connectionAngle": 180,
+          "leadLineAngle": 120,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "9375454c-8226-4274-a184-f8185dc68f0e",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "55%",
+              "dy": "50%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "fbff8a13-7c5f-4b4e-8479-39031a344690"
+        },
+        "id": "c4c6d610-7835-4329-a6d0-3265cc2f0aa8",
+        "z": 22,
+        "objectID": "70800b24-4eae-ecc4-1011-4fad32b56033"
+      }
+    ],
+    "tpVersion": 2
+  }
+}

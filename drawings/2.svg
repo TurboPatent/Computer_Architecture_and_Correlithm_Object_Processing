@@ -1,0 +1,593 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="802.4" height="621" viewBox="97.4 74.9 802.4 621"><g><g transform="translate(97.5,386)"><g><g>
+<path d="M240,0H0v195h240V0L240,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="10.5" y="8.9" width="219" height="177.2" fill="none"/>
+<circle fill="none" cx="120" cy="0" r="0.1"/>
+<circle fill="none" cx="179.5" cy="0" r="0.1"/>
+<circle fill="none" cx="240" cy="49.2" r="0.1"/>
+<circle fill="none" cx="240" cy="97.5" r="0.1"/>
+<circle fill="none" cx="240" cy="145.8" r="0.1"/>
+<circle fill="none" cx="179.5" cy="195" r="0.1"/>
+<circle fill="none" cx="120" cy="195" r="0.1"/>
+<circle fill="none" cx="60.5" cy="195" r="0.1"/>
+<circle fill="none" cx="0" cy="145.8" r="0.1"/>
+<circle fill="none" cx="0" cy="97.5" r="0.1"/>
+<circle fill="none" cx="0" cy="49.2" r="0.1"/>
+<circle fill="none" cx="60.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(279.9,87.4)"/><path stroke="#000000" fill="none" d="M240,97.5 C257,114.4 262.9,80.5 279.9 97.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(279.9,87.4)" text-anchor="middle"><tspan x="20" y="16.3">212</tspan></text><rect stroke-width="0" fill="none" width="219" height="177.2" transform="translate(10.5,8.9)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(10.5,8.9)" text-anchor="middle"><tspan x="109.5" y="94.9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(10.5,8.9)" d="M 0 0"/></g><g transform="translate(120,400.2)"><g transform="rotate(180,120,7.5)"><g>
+<g fill="#FFFFFF">
+    <rect y="0" width="240" height="15"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="15" x2="237.2" y2="15"/>
+</g>
+<rect x="9.4" y="0.6" fill="none" width="221.2" height="13.8"/>
+<circle fill="none" cx="127.5" cy="15" r="0.1"/>
+<circle fill="none" cx="167.9" cy="15" r="0.1"/>
+<circle fill="none" cx="208.3" cy="15" r="0.1"/>
+<circle fill="none" cx="228.5" cy="15" r="0.1"/>
+<circle fill="none" cx="188.1" cy="15" r="0.1"/>
+<circle fill="none" cx="147.7" cy="15" r="0.1"/>
+<circle fill="none" cx="107.3" cy="15" r="0.1"/>
+<circle fill="none" cx="66.9" cy="15" r="0.1"/>
+<circle fill="none" cx="26.5" cy="15" r="0.1"/>
+<circle fill="none" cx="6.3" cy="15" r="0.1"/>
+<circle fill="none" cx="46.7" cy="15" r="0.1"/>
+<circle fill="none" cx="87.1" cy="15" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(92.2,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(92.2,-0.1)"/><rect stroke-width="0" fill="none" width="221.2" height="13.8" transform="translate(9.4,0.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.4,0.6)" text-anchor="middle"><tspan x="110.6" y="13.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(9.4,0.6)" d="M 0 0"/></g><g transform="translate(482.5,390)"><g><g>
+<path d="M240,0H0v195h240V0L240,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="10.5" y="8.9" width="219" height="177.2" fill="none"/>
+<circle fill="none" cx="120" cy="0" r="0.1"/>
+<circle fill="none" cx="179.5" cy="0" r="0.1"/>
+<circle fill="none" cx="240" cy="49.2" r="0.1"/>
+<circle fill="none" cx="240" cy="97.5" r="0.1"/>
+<circle fill="none" cx="240" cy="145.8" r="0.1"/>
+<circle fill="none" cx="179.5" cy="195" r="0.1"/>
+<circle fill="none" cx="120" cy="195" r="0.1"/>
+<circle fill="none" cx="60.5" cy="195" r="0.1"/>
+<circle fill="none" cx="0" cy="145.8" r="0.1"/>
+<circle fill="none" cx="0" cy="97.5" r="0.1"/>
+<circle fill="none" cx="0" cy="49.2" r="0.1"/>
+<circle fill="none" cx="60.5" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(279.9,87.4)"/><path stroke="#000000" fill="none" d="M240,97.5 C257,114.4 262.9,80.5 279.9 97.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(279.9,87.4)" text-anchor="middle"><tspan x="20" y="16.3">210</tspan></text><rect stroke-width="0" fill="none" width="219" height="177.2" transform="translate(10.5,8.9)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(10.5,8.9)" text-anchor="middle"><tspan x="109.5" y="94.9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(10.5,8.9)" d="M 0 0"/></g><g transform="translate(300,75)"><g><g>
+<path d="M120,0H0v71.3h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="3.3" width="109.5" height="64.8" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="18" r="0.1"/>
+<circle fill="none" cx="120" cy="35.7" r="0.1"/>
+<circle fill="none" cx="120" cy="53.3" r="0.1"/>
+<circle fill="none" cx="89.7" cy="71.3" r="0.1"/>
+<circle fill="none" cx="60" cy="71.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="71.3" r="0.1"/>
+<circle fill="none" cx="0" cy="53.3" r="0.1"/>
+<circle fill="none" cx="0" cy="35.7" r="0.1"/>
+<circle fill="none" cx="0" cy="18" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(159.9,25.6)"/><path stroke="#000000" fill="none" d="M120,35.7 C137,52.6 142.9,18.7 159.9 35.6"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(159.9,25.6)" text-anchor="middle"><tspan x="20" y="16.3">202</tspan></text><rect stroke-width="0" fill="none" width="109.5" height="64.8" transform="translate(5.2,3.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,3.3)" text-anchor="middle"><tspan x="54.8" y="17.7">SOURCE</tspan><tspan x="54.8" y="38.7">CORRELITHM</tspan><tspan x="54.8" y="59.7">OBJECTS</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,3.3)" d="M 0 0"/></g><g transform="translate(120,602)"><g transform="rotate(180,120,7.5)"><g>
+<g fill="#FFFFFF">
+    <rect y="0" width="240" height="15"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="15" x2="237.2" y2="15"/>
+</g>
+<rect x="9.4" y="0.6" fill="none" width="221.2" height="13.8"/>
+<circle fill="none" cx="127.5" cy="15" r="0.1"/>
+<circle fill="none" cx="167.9" cy="15" r="0.1"/>
+<circle fill="none" cx="208.3" cy="15" r="0.1"/>
+<circle fill="none" cx="228.5" cy="15" r="0.1"/>
+<circle fill="none" cx="188.1" cy="15" r="0.1"/>
+<circle fill="none" cx="147.7" cy="15" r="0.1"/>
+<circle fill="none" cx="107.3" cy="15" r="0.1"/>
+<circle fill="none" cx="66.9" cy="15" r="0.1"/>
+<circle fill="none" cx="26.5" cy="15" r="0.1"/>
+<circle fill="none" cx="6.3" cy="15" r="0.1"/>
+<circle fill="none" cx="46.7" cy="15" r="0.1"/>
+<circle fill="none" cx="87.1" cy="15" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(92.2,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(92.2,-0.1)"/><rect stroke-width="0" fill="none" width="221.2" height="13.8" transform="translate(9.4,0.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.4,0.6)" text-anchor="middle"><tspan x="110.6" y="13.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(9.4,0.6)" d="M 0 0"/></g><g transform="translate(505,404.2)"><g transform="rotate(180,120,7.5)"><g>
+<g fill="#FFFFFF">
+    <rect y="0" width="240" height="15"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="15" x2="237.2" y2="15"/>
+</g>
+<rect x="9.4" y="0.6" fill="none" width="221.2" height="13.8"/>
+<circle fill="none" cx="127.5" cy="15" r="0.1"/>
+<circle fill="none" cx="167.9" cy="15" r="0.1"/>
+<circle fill="none" cx="208.3" cy="15" r="0.1"/>
+<circle fill="none" cx="228.5" cy="15" r="0.1"/>
+<circle fill="none" cx="188.1" cy="15" r="0.1"/>
+<circle fill="none" cx="147.7" cy="15" r="0.1"/>
+<circle fill="none" cx="107.3" cy="15" r="0.1"/>
+<circle fill="none" cx="66.9" cy="15" r="0.1"/>
+<circle fill="none" cx="26.5" cy="15" r="0.1"/>
+<circle fill="none" cx="6.3" cy="15" r="0.1"/>
+<circle fill="none" cx="46.7" cy="15" r="0.1"/>
+<circle fill="none" cx="87.1" cy="15" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(92.2,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(92.2,-0.1)"/><rect stroke-width="0" fill="none" width="221.2" height="13.8" transform="translate(9.4,0.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.4,0.6)" text-anchor="middle"><tspan x="110.6" y="13.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(9.4,0.6)" d="M 0 0"/></g><g transform="translate(300,146.3)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.2">SOURCE</tspan><tspan x="54.8" y="37.2">OBJECT 1</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(420,75)"><g><g>
+<path d="M120,0H0v71.3h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="3.3" width="109.5" height="64.8" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="18" r="0.1"/>
+<circle fill="none" cx="120" cy="35.7" r="0.1"/>
+<circle fill="none" cx="120" cy="53.3" r="0.1"/>
+<circle fill="none" cx="89.7" cy="71.3" r="0.1"/>
+<circle fill="none" cx="60" cy="71.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="71.3" r="0.1"/>
+<circle fill="none" cx="0" cy="53.3" r="0.1"/>
+<circle fill="none" cx="0" cy="35.7" r="0.1"/>
+<circle fill="none" cx="0" cy="18" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(159.9,25.6)"/><path stroke="#000000" fill="none" d="M120,35.7 C137,52.6 142.9,18.7 159.9 35.6"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(159.9,25.6)" text-anchor="middle"><tspan x="20" y="16.3">206</tspan></text><rect stroke-width="0" fill="none" width="109.5" height="64.8" transform="translate(5.2,3.3)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,3.3)" text-anchor="middle"><tspan x="54.8" y="17.7">TARGET</tspan><tspan x="54.8" y="38.7">CORRELITHM</tspan><tspan x="54.8" y="59.7">OBJECT</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,3.3)" d="M 0 0"/></g><g transform="translate(505,606)"><g transform="rotate(180,120,7.5)"><g>
+<g fill="#FFFFFF">
+    <rect y="0" width="240" height="15"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="15" x2="237.2" y2="15"/>
+</g>
+<rect x="9.4" y="0.6" fill="none" width="221.2" height="13.8"/>
+<circle fill="none" cx="127.5" cy="15" r="0.1"/>
+<circle fill="none" cx="167.9" cy="15" r="0.1"/>
+<circle fill="none" cx="208.3" cy="15" r="0.1"/>
+<circle fill="none" cx="228.5" cy="15" r="0.1"/>
+<circle fill="none" cx="188.1" cy="15" r="0.1"/>
+<circle fill="none" cx="147.7" cy="15" r="0.1"/>
+<circle fill="none" cx="107.3" cy="15" r="0.1"/>
+<circle fill="none" cx="66.9" cy="15" r="0.1"/>
+<circle fill="none" cx="26.5" cy="15" r="0.1"/>
+<circle fill="none" cx="6.3" cy="15" r="0.1"/>
+<circle fill="none" cx="46.7" cy="15" r="0.1"/>
+<circle fill="none" cx="87.1" cy="15" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(92.2,-0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(92.2,-0.1)"/><rect stroke-width="0" fill="none" width="221.2" height="13.8" transform="translate(9.4,0.6)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(9.4,0.6)" text-anchor="middle"><tspan x="110.6" y="13.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(9.4,0.6)" d="M 0 0"/></g><g transform="translate(300,191.3)"><g><g>
+<path d="M120,0H0v45.2h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="41.1" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.4" r="0.1"/>
+<circle fill="none" cx="120" cy="22.6" r="0.1"/>
+<circle fill="none" cx="120" cy="33.8" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45.2" r="0.1"/>
+<circle fill="none" cx="60" cy="45.2" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45.2" r="0.1"/>
+<circle fill="none" cx="0" cy="33.8" r="0.1"/>
+<circle fill="none" cx="0" cy="22.6" r="0.1"/>
+<circle fill="none" cx="0" cy="11.4" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.5)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.5)"/><rect stroke-width="0" fill="none" width="109.5" height="41.1" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.3">SOURCE</tspan><tspan x="54.8" y="37.3">OBJECT 2</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(420,146.3)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.2">TARGET</tspan><tspan x="54.8" y="37.2">OBJECT 1</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(360,400.2)"><g><g>
+<g fill="#FFFFFF">
+    <rect width="15" height="201.8"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="0" x2="0" y2="201.8"/>
+</g>
+<rect fill="none" width="15" height="201.8"/>
+<circle fill="none" cx="0" cy="24.3" r="0.1"/>
+<circle fill="none" cx="0" cy="58.4" r="0.1"/>
+<circle fill="none" cx="0" cy="92.4" r="0.1"/>
+<circle fill="none" cx="0" cy="126.4" r="0.1"/>
+<circle fill="none" cx="0" cy="160.3" r="0.1"/>
+<circle fill="none" cx="0" cy="194.3" r="0.1"/>
+<circle fill="none" cx="0" cy="177.3" r="0.1"/>
+<circle fill="none" cx="0" cy="143.4" r="0.1"/>
+<circle fill="none" cx="0" cy="109.4" r="0.1"/>
+<circle fill="none" cx="0" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0" cy="41.3" r="0.1"/>
+<circle fill="none" cx="0" cy="7.5" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,75.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,75.3)"/><rect stroke-width="0" fill="none" width="15" height="201.8" transform="translate(0,0)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)" text-anchor="middle"><tspan x="7.5" y="107.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(0,0)" d="M 0 0"/></g><g transform="translate(300,236.5)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.2">SOURCE</tspan><tspan x="54.8" y="37.2">OBJECT 3</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(420,191.3)"><g><g>
+<path d="M120,0H0v45.2h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="41.1" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.4" r="0.1"/>
+<circle fill="none" cx="120" cy="22.6" r="0.1"/>
+<circle fill="none" cx="120" cy="33.8" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45.2" r="0.1"/>
+<circle fill="none" cx="60" cy="45.2" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45.2" r="0.1"/>
+<circle fill="none" cx="0" cy="33.8" r="0.1"/>
+<circle fill="none" cx="0" cy="22.6" r="0.1"/>
+<circle fill="none" cx="0" cy="11.4" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.5)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.5)"/><rect stroke-width="0" fill="none" width="109.5" height="41.1" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.3">TARGET</tspan><tspan x="54.8" y="37.3">OBJECT 2</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(745,404.2)"><g><g>
+<g fill="#FFFFFF">
+    <rect width="15" height="201.8"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="0" x2="0" y2="201.8"/>
+</g>
+<rect fill="none" width="15" height="201.8"/>
+<circle fill="none" cx="0" cy="24.3" r="0.1"/>
+<circle fill="none" cx="0" cy="58.4" r="0.1"/>
+<circle fill="none" cx="0" cy="92.4" r="0.1"/>
+<circle fill="none" cx="0" cy="126.4" r="0.1"/>
+<circle fill="none" cx="0" cy="160.3" r="0.1"/>
+<circle fill="none" cx="0" cy="194.3" r="0.1"/>
+<circle fill="none" cx="0" cy="177.3" r="0.1"/>
+<circle fill="none" cx="0" cy="143.4" r="0.1"/>
+<circle fill="none" cx="0" cy="109.4" r="0.1"/>
+<circle fill="none" cx="0" cy="75.4" r="0.1"/>
+<circle fill="none" cx="0" cy="41.3" r="0.1"/>
+<circle fill="none" cx="0" cy="7.5" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(-0.1,75.3)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(-0.1,75.3)"/><rect stroke-width="0" fill="none" width="15" height="201.8" transform="translate(0,0)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)" text-anchor="middle"><tspan x="7.5" y="107.2"> </tspan></text><path stroke="#000000" fill="none" transform="translate(0,0)" d="M 0 0"/></g><g transform="translate(300,281.5)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="26.7">...</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(420,236.5)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="16.2">TARGET</tspan><tspan x="54.8" y="37.2">OBJECT 3</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(106.8,400.2)"><g transform="rotate(180,7.5,97.5)"><g>
+<g fill="#FFFFFF">
+    <rect width="15" height="195"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="0" x2="0" y2="195"/>
+</g>
+<rect fill="none" width="15" height="195"/>
+<circle fill="none" cx="0" cy="23.5" r="0.1"/>
+<circle fill="none" cx="0" cy="56.5" r="0.1"/>
+<circle fill="none" cx="0" cy="89.3" r="0.1"/>
+<circle fill="none" cx="0" cy="122.1" r="0.1"/>
+<circle fill="none" cx="0" cy="154.9" r="0.1"/>
+<circle fill="none" cx="0" cy="187.8" r="0.1"/>
+<circle fill="none" cx="0" cy="171.3" r="0.1"/>
+<circle fill="none" cx="0" cy="138.5" r="0.1"/>
+<circle fill="none" cx="0" cy="105.7" r="0.1"/>
+<circle fill="none" cx="0" cy="72.9" r="0.1"/>
+<circle fill="none" cx="0" cy="39.9" r="0.1"/>
+<circle fill="none" cx="0" cy="7.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(14.9,122)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(14.9,122)"/><rect stroke-width="0" fill="none" width="15" height="195" transform="translate(0,0)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)" text-anchor="middle"><tspan x="7.5" y="103.8"> </tspan></text><path stroke="#000000" fill="none" transform="translate(0,0)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 212 400 217 386" fill="none"/><path fill="black" stroke="black" d="" transform="translate(212,400) scale(1,1) rotate(-70.3)"/><path fill="black" stroke="black" d="" transform="translate(217,386) scale(1,1) rotate(-250.3)"/><g><g label-idx="0" cursor="move" transform="translate(214.5, 393)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(420,281.5)"><g><g>
+<path d="M120,0H0v45h120V0L120,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="5.2" y="2.1" width="109.5" height="40.9" fill="none"/>
+<circle fill="none" cx="60" cy="0" r="0.1"/>
+<circle fill="none" cx="89.7" cy="0" r="0.1"/>
+<circle fill="none" cx="120" cy="11.3" r="0.1"/>
+<circle fill="none" cx="120" cy="22.5" r="0.1"/>
+<circle fill="none" cx="120" cy="33.7" r="0.1"/>
+<circle fill="none" cx="89.7" cy="45" r="0.1"/>
+<circle fill="none" cx="60" cy="45" r="0.1"/>
+<circle fill="none" cx="30.3" cy="45" r="0.1"/>
+<circle fill="none" cx="0" cy="33.7" r="0.1"/>
+<circle fill="none" cx="0" cy="22.5" r="0.1"/>
+<circle fill="none" cx="0" cy="11.3" r="0.1"/>
+<circle fill="none" cx="30.3" cy="0" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(119.9,22.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(119.9,22.4)"/><rect stroke-width="0" fill="none" width="109.5" height="40.9" transform="translate(5.2,2.1)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(5.2,2.1)" text-anchor="middle"><tspan x="54.8" y="26.7">...</tspan></text><path stroke="#000000" fill="none" transform="translate(5.2,2.1)" d="M 0 0"/></g><g transform="translate(491.8,404.2)"><g transform="rotate(180,7.5,97.5)"><g>
+<g fill="#FFFFFF">
+    <rect width="15" height="195"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <line fill="none" stroke-linejoin="round" x1="0" y1="0" x2="0" y2="195"/>
+</g>
+<rect fill="none" width="15" height="195"/>
+<circle fill="none" cx="0" cy="23.5" r="0.1"/>
+<circle fill="none" cx="0" cy="56.5" r="0.1"/>
+<circle fill="none" cx="0" cy="89.3" r="0.1"/>
+<circle fill="none" cx="0" cy="122.1" r="0.1"/>
+<circle fill="none" cx="0" cy="154.9" r="0.1"/>
+<circle fill="none" cx="0" cy="187.8" r="0.1"/>
+<circle fill="none" cx="0" cy="171.3" r="0.1"/>
+<circle fill="none" cx="0" cy="138.5" r="0.1"/>
+<circle fill="none" cx="0" cy="105.7" r="0.1"/>
+<circle fill="none" cx="0" cy="72.9" r="0.1"/>
+<circle fill="none" cx="0" cy="39.9" r="0.1"/>
+<circle fill="none" cx="0" cy="7.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(14.9,122)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(14.9,122)"/><rect stroke-width="0" fill="none" width="15" height="195" transform="translate(0,0)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(0,0)" text-anchor="middle"><tspan x="7.5" y="103.8"> </tspan></text><path stroke="#000000" fill="none" transform="translate(0,0)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 597 404 602 390" fill="none"/><path fill="black" stroke="black" d="" transform="translate(597,404) scale(1,1) rotate(-70.3)"/><path fill="black" stroke="black" d="" transform="translate(602,390) scale(1,1) rotate(-250.3)"/><g><g label-idx="0" cursor="move" transform="translate(599.5, 397)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 212 602 217 581" fill="none"/><path fill="black" stroke="black" d="" transform="translate(212,602) scale(1,1) rotate(-76.6)"/><path fill="black" stroke="black" d="" transform="translate(217,581) scale(1,1) rotate(-256.6)"/><g><g label-idx="0" cursor="move" transform="translate(214.5, 591.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(225,75)"><g><g>
+<g fill="#FFFFFF">
+    <path d="M0,118.3c9.3,-0.3,17.2,-12,17.2,-31.6V30.6C17.2,11,24,0,32.9,0h12.1v239.8h-12.1c-8.9,0,-15.7,-11,-15.7,-31V150C17.2,130.7,9.5,118.7,0,118.3"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none" fill="#FFFFFF">
+    <path stroke-linejoin="round" d="M45,239.8h-12.1c-8.9,0,-15.7,-11,-15.7,-31V150C17.2,130.7,9.5,118.7,0,118.3"/>
+    <path stroke-linejoin="round" d="M0,118.3c9.3,-0.3,17.2,-12,17.2,-31.6V30.6C17.2,11,24,0,32.9,0h12.1"/>
+</g>
+<rect x="3" y="5.2" fill="none" width="38.8" height="229.5"/>
+<circle fill="none" cx="33.8" cy="0.2" r="0.1"/>
+<circle fill="none" cx="45" cy="0.2" r="0.1"/>
+<circle fill="none" cx="45" cy="240" r="0.1"/>
+<circle fill="none" cx="33.8" cy="240" r="0.1"/>
+<circle fill="none" cx="21" cy="230.5" r="0.1"/>
+<circle fill="none" cx="17.2" cy="190.1" r="0.1"/>
+<circle fill="none" cx="17" cy="145" r="0.1"/>
+<circle fill="none" cx="8" cy="122.1" r="0.1"/>
+<circle fill="none" cx="7.9" cy="115.1" r="0.1"/>
+<circle fill="none" cx="17.3" cy="88.1" r="0.1"/>
+<circle fill="none" cx="17.1" cy="35.8" r="0.1"/>
+<circle fill="none" cx="20.6" cy="10.5" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(44.9,0.1)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(44.9,0.1)"/><rect stroke-width="0" fill="none" width="38.8" height="229.5" transform="translate(3,5.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3,5.2)" text-anchor="middle"><tspan x="19.4" y="121"> </tspan></text><path stroke="#000000" fill="none" transform="translate(3,5.2)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 597 606 602 585" fill="none"/><path fill="black" stroke="black" d="" transform="translate(597,606) scale(1,1) rotate(-76.6)"/><path fill="black" stroke="black" d="" transform="translate(602,585) scale(1,1) rotate(-256.6)"/><g><g label-idx="0" cursor="move" transform="translate(599.5, 595.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 212 602 217 581" fill="none"/><path fill="black" stroke="black" d="" transform="translate(212,602) scale(1,1) rotate(-76.6)"/><path fill="black" stroke="black" d="" transform="translate(217,581) scale(1,1) rotate(-256.6)"/><g><g label-idx="0" cursor="move" transform="translate(214.5, 591.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(570,75)"><g><g>
+<g fill="#FFFFFF">
+    <path d="M45,121.4c-9.3,0.3,-17.2,12,-17.2,31.6v56.1c0,19.6,-6.8,30.6,-15.7,30.6H0L0,0l12.1,0c8.9,0,15.7,11,15.7,31v58.8C27.8,109.1,35.5,121.1,45,121.4"/>
+</g>
+<g stroke="#000000" stroke-dasharray="none">
+    <path fill="none" stroke-linejoin="round" d="M0,0h12.1c8.9,0,15.7,11,15.7,31v58.8c0,19.3,7.8,31.3,17.2,31.6"/>
+    <path fill="none" stroke-linejoin="round" d="M45,121.4c-9.3,0.3,-17.2,12,-17.2,31.6v56.1c0,19.6,-6.8,30.6,-15.7,30.6H0"/>
+</g>
+<rect x="3" y="5.2" fill="none" width="38.8" height="229.5"/>
+<circle fill="none" cx="11.3" cy="0.2" r="0.1"/>
+<circle fill="none" cx="24.5" cy="10.5" r="0.1"/>
+<circle fill="none" cx="28" cy="35.8" r="0.1"/>
+<circle fill="none" cx="27.9" cy="88.1" r="0.1"/>
+<circle fill="none" cx="37.2" cy="115.1" r="0.1"/>
+<circle fill="none" cx="37.1" cy="122.1" r="0.1"/>
+<circle fill="none" cx="28.1" cy="145" r="0.1"/>
+<circle fill="none" cx="27.9" cy="190.1" r="0.1"/>
+<circle fill="none" cx="24.1" cy="230.5" r="0.1"/>
+<circle fill="none" cx="11.3" cy="240" r="0.1"/>
+<circle fill="none" cx="0.1" cy="240" r="0.1"/>
+<circle fill="none" cx="0.1" cy="0.2" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="0" fill="#FFFFFF" x="0" y="0" width="0" height="0" transform="translate(24.4,10.4)"/><path stroke="#000000" fill="none" d=""/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(24.4,10.4)"/><rect stroke-width="0" fill="none" width="38.8" height="229.5" transform="translate(3,5.2)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(3,5.2)" text-anchor="middle"><tspan x="19.4" y="121"> </tspan></text><path stroke="#000000" fill="none" transform="translate(3,5.2)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 597 606 602 585" fill="none"/><path fill="black" stroke="black" d="" transform="translate(597,606) scale(1,1) rotate(-76.6)"/><path fill="black" stroke="black" d="" transform="translate(602,585) scale(1,1) rotate(-256.6)"/><g><g label-idx="0" cursor="move" transform="translate(599.5, 595.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(190,478)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(190,530.9)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(225,453.4)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(270,453.4)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(225,507.3)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(242,530.9)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(270,507.3)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 236 459 270 459" fill="none"/><path fill="black" stroke="black" d="" transform="translate(236,459) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="" transform="translate(270,459) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(253, 459)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(242,478)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">204</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 198 531 198 488" fill="none"/><path fill="black" stroke="black" d="" transform="translate(198,531) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(198,488) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(198, 509.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 201 536 242 536" fill="none"/><path fill="black" stroke="black" d="" transform="translate(201,536) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="" transform="translate(242,536) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(221.5, 536)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 225 459 198 479" fill="none"/><path fill="black" stroke="black" d="" transform="translate(225,459) scale(1,1) rotate(-216.5)"/><path fill="black" stroke="black" d="" transform="translate(198,479) scale(1,1) rotate(-36.5)"/><g><g label-idx="0" cursor="move" transform="translate(211.5, 469)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 250 532 271 516" fill="none"/><path fill="black" stroke="black" d="" transform="translate(250,532) scale(1,1) rotate(-37.3)"/><path fill="black" stroke="black" d="" transform="translate(271,516) scale(1,1) rotate(-217.3)"/><g><g label-idx="0" cursor="move" transform="translate(260.5, 524)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 278 507 278 464" fill="none"/><path fill="black" stroke="black" d="" transform="translate(278,507) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(278,464) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(278, 485.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 198 532 225 513" fill="none"/><path fill="black" stroke="black" d="" transform="translate(198,532) scale(1,1) rotate(-35.1)"/><path fill="black" stroke="black" d="" transform="translate(225,513) scale(1,1) rotate(-215.1)"/><g><g label-idx="0" cursor="move" transform="translate(211.5, 522.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 236 513 270 513" fill="none"/><path fill="black" stroke="black" d="" transform="translate(236,513) scale(1,1) rotate(0)"/><path fill="black" stroke="black" d="" transform="translate(270,513) scale(1,1) rotate(-180)"/><g><g label-idx="0" cursor="move" transform="translate(253, 513)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 212 400 217 386" fill="none"/><path fill="black" stroke="black" d="" transform="translate(212,400) scale(1,1) rotate(-70.3)"/><path fill="black" stroke="black" d="" transform="translate(217,386) scale(1,1) rotate(-250.3)"/><g><g label-idx="0" cursor="move" transform="translate(214.5, 393)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 597 404 602 390" fill="none"/><path fill="black" stroke="black" d="" transform="translate(597,404) scale(1,1) rotate(-70.3)"/><path fill="black" stroke="black" d="" transform="translate(602,390) scale(1,1) rotate(-250.3)"/><g><g label-idx="0" cursor="move" transform="translate(599.5, 397)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 242 483 201 483" fill="none"/><path fill="black" stroke="black" d="" transform="translate(242,483) scale(1,1) rotate(-180)"/><path fill="black" stroke="black" d="" transform="translate(201,483) scale(1,1) rotate(0)"/><g><g label-idx="0" cursor="move" transform="translate(221.5, 483)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 250 488 250 532" fill="none"/><path fill="black" stroke="black" d="" transform="translate(250,488) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="" transform="translate(250,532) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(250, 510)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 250 479 271 462" fill="none"/><path fill="black" stroke="black" d="" transform="translate(250,479) scale(1,1) rotate(-39)"/><path fill="black" stroke="black" d="" transform="translate(271,462) scale(1,1) rotate(-219)"/><g><g label-idx="0" cursor="move" transform="translate(260.5, 470.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 233 464 233 508" fill="none"/><path fill="black" stroke="black" d="" transform="translate(233,464) scale(1,1) rotate(-270)"/><path fill="black" stroke="black" d="" transform="translate(233,508) scale(1,1) rotate(-90)"/><g><g label-idx="0" cursor="move" transform="translate(233, 486)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g transform="translate(541.2,515.9)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(563.9,461)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(563.9,484.8)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(612.9,504.9)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(634.9,474)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g transform="translate(612.9,541.9)"><g><g>
+<path d="M5.5,0C2.5,0,0,2.5,0,5.5s2.5,5.5,5.5,5.5s5.5,-2.5,5.5,-5.5S8.6,0,5.5,0L5.5,0z" stroke="#000000" stroke-dasharray="none" fill="#FFFFFF"/>
+<rect x="1.1" y="2.8" width="8.9" height="5.4" fill="none"/>
+<circle fill="none" cx="5.5" cy="0" r="0.1"/>
+<circle fill="none" cx="8.1" cy="0.7" r="0.1"/>
+<circle fill="none" cx="10.3" cy="2.8" r="0.1"/>
+<circle fill="none" cx="11" cy="5.5" r="0.1"/>
+<circle fill="none" cx="10.3" cy="8.2" r="0.1"/>
+<circle fill="none" cx="8.2" cy="10.3" r="0.1"/>
+<circle fill="none" cx="5.5" cy="11" r="0.1"/>
+<circle fill="none" cx="2.8" cy="10.3" r="0.1"/>
+<circle fill="none" cx="0.7" cy="8.2" r="0.1"/>
+<circle fill="none" cx="0" cy="5.4" r="0.1"/>
+<circle fill="none" cx="0.7" cy="2.8" r="0.1"/>
+<circle fill="none" cx="2.9" cy="0.7" r="0.1"/>
+</g></g><rect stroke="none" stroke-width="1" fill="#FFFFFF" x="0" y="0" width="40" height="20" transform="translate(50.9,-4.6)"/><path stroke="#000000" fill="none" d="M11,5.5 C28,22.4 33.9,-11.5 50.9 5.4"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(50.9,-4.6)" text-anchor="middle"><tspan x="20" y="16.3">208</tspan></text><rect stroke-width="0" fill="none" width="8.9" height="5.4" transform="translate(1.1,2.8)"/><text font-family="OpenSansCondensedLight" font-size="14pt" fill="black" transform="translate(1.1,2.8)" text-anchor="middle"><tspan x="4.4" y="9"> </tspan></text><path stroke="#000000" fill="none" transform="translate(1.1,2.8)" d="M 0 0"/></g><g><path stroke="black" stroke-dasharray="none" d="M 549 517 569 472" fill="none"/><path fill="black" stroke="black" d="" transform="translate(549,517) scale(1,1) rotate(-66)"/><path fill="black" stroke="black" d="" transform="translate(569,472) scale(1,1) rotate(-246)"/><g><g label-idx="0" cursor="move" transform="translate(559, 494.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 572 471 614 508" fill="none"/><path fill="black" stroke="black" d="" transform="translate(572,471) scale(1,1) rotate(41.4)"/><path fill="black" stroke="black" d="" transform="translate(614,508) scale(1,1) rotate(-138.6)"/><g><g label-idx="0" cursor="move" transform="translate(593, 489.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 621 506 638 484" fill="none"/><path fill="black" stroke="black" d="" transform="translate(621,506) scale(1,1) rotate(-52.3)"/><path fill="black" stroke="black" d="" transform="translate(638,484) scale(1,1) rotate(-232.3)"/><g><g label-idx="0" cursor="move" transform="translate(629.5, 495)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 640 485 621 543" fill="none"/><path fill="black" stroke="black" d="" transform="translate(640,485) scale(1,1) rotate(-251.9)"/><path fill="black" stroke="black" d="" transform="translate(621,543) scale(1,1) rotate(-71.9)"/><g><g label-idx="0" cursor="move" transform="translate(630.5, 514)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 621 542 621 515" fill="none"/><path fill="black" stroke="black" d="" transform="translate(621,542) scale(1,1) rotate(-90)"/><path fill="black" stroke="black" d="" transform="translate(621,515) scale(1,1) rotate(-270)"/><g><g label-idx="0" cursor="move" transform="translate(621, 528.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 572 495 614 545" fill="none"/><path fill="black" stroke="black" d="" transform="translate(572,495) scale(1,1) rotate(50)"/><path fill="black" stroke="black" d="" transform="translate(614,545) scale(1,1) rotate(-130)"/><g><g label-idx="0" cursor="move" transform="translate(593, 520)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 635 479 575 490" fill="none"/><path fill="black" stroke="black" d="" transform="translate(635,479) scale(1,1) rotate(-190.4)"/><path fill="black" stroke="black" d="" transform="translate(575,490) scale(1,1) rotate(-10.4)"/><g><g label-idx="0" cursor="move" transform="translate(605, 484.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 281 459 556 466" fill="none"/><path fill="black" stroke="black" d="" transform="translate(281,459) scale(1,1) rotate(1.4)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(563.9,470) scale(1,1) rotate(-178.6)"/><g><g label-idx="0" cursor="move" transform="translate(418.5, 462.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 281 513 556 491" fill="none"/><path fill="black" stroke="black" d="" transform="translate(281,513) scale(1,1) rotate(-4.6)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(564.3,494) scale(1,1) rotate(-184.6)"/><g><g label-idx="0" cursor="move" transform="translate(418.5, 502)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 253 536 533 521" fill="none"/><path fill="black" stroke="black" d="" transform="translate(253,536) scale(1,1) rotate(-3)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(541.2,525) scale(1,1) rotate(-183)"/><g><g label-idx="0" cursor="move" transform="translate(393, 528.5)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 607 197 C 643.8 195.6 680.7 194.2 690 225 C 699.3 255.8 681.2 318.9 663 382" fill="none"/><path fill="black" stroke="black" d="" transform="translate(607,197) scale(1,1) rotate(18.6)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(658.1,389.3) scale(1,1) rotate(-80.4)"/><g><g label-idx="0" cursor="move" transform="translate(692, 257.7)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g><g><path stroke="black" stroke-dasharray="none" d="M 233 197 C 197.8 195.9 162.5 194.8 150 225 C 137.5 255.2 147.8 316.6 158 378" fill="none"/><path fill="black" stroke="black" d="" transform="translate(233,197) scale(1,1) rotate(-198.6)"/><path fill="black" stroke="black" d="M 8 0 L 0 4 L 8 8 z" transform="translate(154,386.2) scale(1,1) rotate(-92.8)"/><g><g label-idx="0" cursor="move" transform="translate(144.4, 254.7)"><rect fill="white" rx="3" ry="3" x="0" y="0" width="0" height="0"/><text text-anchor="middle" font-size="14pt" font-family="OpenSansCondensedLight" y="0.8em" display="none" xml:space="preserve" transform="translate(0,0)"/></g></g></g></g><defs/></svg>

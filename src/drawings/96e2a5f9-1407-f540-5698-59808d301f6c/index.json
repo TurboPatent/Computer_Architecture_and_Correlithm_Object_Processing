@@ -1,0 +1,1718 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 22.476356506347656,
+          "y": 390
+        },
+        "size": {
+          "width": 112.47635650634766,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id1094a1ba-b578-3e5a-df36-9af182f605a2\" data-value=\"6c60ac3f-7cf6-677b-edc3-57df1f24a25d\" data-role=\"tag\">real world input value</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "97f38a09-d521-42f0-9ee3-7518a5dbebde",
+        "z": -1,
+        "objectID": "4593fbba-6eed-28dd-c29c-48bab1287dd8"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 22.476356506347656,
+          "y": 480
+        },
+        "size": {
+          "width": 112.47635650634766,
+          "height": 120
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "da56e7b4-96b5-49c8-9f08-f56ef761f212",
+        "z": 0,
+        "objectID": "34973283-e88e-8991-39c3-ed681846962b",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "item",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 602.8250007629395,
+          "y": 18.390625
+        },
+        "size": {
+          "width": 28.34644317626953,
+          "height": 28.34644317626953
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "6a5bc69f-9d51-4b97-a917-bf97c0a99f4e",
+        "z": 1,
+        "objectID": "6020348d-f244-da02-9b2c-b8dd856512a6",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id5d63597b-ae8a-f8e9-8a65-e861edd6bd70\" data-value=\"48ff6697-552c-0681-b327-95079cef020c\" data-role=\"tag\">real world value</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 77.7263215570704
+        },
+        "size": {
+          "width": 120,
+          "height": 68.61326407591324
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id0b4c56c2-d058-7ade-c521-0c9cd415b62e\" data-value=\"48ff6697-552c-0681-b327-95079cef020c\" data-role=\"tag\">real world value</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "80aac43b-1697-2010-9f40-4049093d2c1e",
+        "z": 2,
+        "objectID": "be74143e-62c3-01dd-7519-976036fb41dd",
+        "number": 12,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 44.99999999999997
+        },
+        "angle": 0,
+        "label": "<p>value 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "0648bc8c-4c94-5339-0340-e7f9e179d602",
+        "z": 3,
+        "objectID": "18dddd78-3411-f638-b5bd-7a38f99d96a4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id160a3ab6-e63e-146c-e006-9a03baf632f5\" data-value=\"0b8693a4-066d-088e-e094-1066b4e50eab\" data-role=\"tag\">input correlithm object</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 179.99999999999994,
+          "y": 77.7263215570704
+        },
+        "size": {
+          "width": 120,
+          "height": 68.61326407591321
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id3fc30ec3-a7fb-b69c-10b4-f624959002ce\" data-value=\"0b8693a4-066d-088e-e094-1066b4e50eab\" data-role=\"tag\">input correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "9685af86-3c9b-e97e-13aa-1d25b5a2f3ea",
+        "z": 3,
+        "objectID": "af38c47f-778a-41e1-096d-00cca83981d4",
+        "number": 14,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 355,
+          "y": 75.00000000000014
+        },
+        "size": {
+          "width": 120,
+          "height": 71.3395856329835
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id986d047b-6ffa-eaaa-6e32-4ca74c65a1a3\" data-value=\"53116167-c7c7-3c55-e0c8-c45e0766f903\" data-role=\"tag\">source correlithm objects</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "9018c633-908f-8bf5-3426-59b32a527a42",
+        "z": 3,
+        "objectID": "0bbb5550-51c4-763d-dbcb-5f2098f32140",
+        "number": 2,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 191.3395856329836
+        },
+        "size": {
+          "width": 120,
+          "height": 45.17452662341901
+        },
+        "angle": 0,
+        "label": "<p>value 2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "c78d524a-ab40-3005-43ce-0d3ad4df6cbf",
+        "z": 4,
+        "objectID": "d8bddd72-8ac6-a8a7-72cc-303570bdfbf6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 180,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 119.99999999999994,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>input object 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "f9471daf-a603-b33d-cc24-449e9c986064",
+        "z": 4,
+        "objectID": "c4ec5739-dddd-9592-81df-b144049cacd6",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 355,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 44.99999999999997
+        },
+        "angle": 0,
+        "label": "<p>source object 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "29b8ed92-df32-6dd2-9250-8ce35c1e0813",
+        "z": 4,
+        "objectID": "e9a66e34-0286-f425-cb61-4661f893f0ad",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 475,
+          "y": 75.00000000000013
+        },
+        "size": {
+          "width": 120,
+          "height": 71.33958563298353
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"iddb4a21e1-d514-94bb-4fbb-e8ac708b4b7c\" data-value=\"7bda884a-a141-ea61-c3f4-c361d8fb1f26\" data-role=\"tag\">target correlithm object</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "66c2351d-4980-6a3a-1140-632048b8c855",
+        "z": 4,
+        "objectID": "c6770b7c-c17a-0550-9ca0-d5b114abc3d0",
+        "number": 6,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 646.171443939209,
+          "y": 75.00000000000024
+        },
+        "size": {
+          "width": 120,
+          "height": 71.33958563298344
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id49d2f03e-0703-db48-0695-8835749aa493\" data-value=\"ef39066b-e532-2d0b-9e24-b30e8186b8d4\" data-role=\"tag\">output correlithm objects</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "16aa00ea-3eb8-c704-e176-3f22a52d4753",
+        "z": 4,
+        "objectID": "602f129a-0e9b-1b5b-028f-09029636124c",
+        "number": 16,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 236.5141122564026
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>value 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "aee2730f-e7e4-38e6-5d6e-fb2fb1ccc432",
+        "z": 5,
+        "objectID": "d27e1435-ac03-317d-e9cc-e2c99f66ae15",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 179.99999999999994,
+          "y": 191.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 45.174526623418984
+        },
+        "angle": 0,
+        "label": "<p>input object 2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "660f04b6-d083-bd8f-ff9f-adc061daedb0",
+        "z": 5,
+        "objectID": "941feb44-9b47-18f4-9273-f8bf94c53671",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 355,
+          "y": 191.3395856329836
+        },
+        "size": {
+          "width": 120,
+          "height": 45.17452662341901
+        },
+        "angle": 0,
+        "label": "<p>source object 2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "858ce936-6ce3-aae5-eaa1-039c3394ce5c",
+        "z": 5,
+        "objectID": "0dbb46a7-1b56-84b8-3fe6-8a6cac0111c4",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 475,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 44.99999999999997
+        },
+        "angle": 0,
+        "label": "<p>target object 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "fff59b29-ff87-586b-b993-638f5bb9c8b7",
+        "z": 5,
+        "objectID": "9e50ad6f-a313-64ac-6394-b72c8334476e",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 646.171443939209,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 44.99999999999997
+        },
+        "angle": 0,
+        "label": "<p>output object 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "2e30e950-3a73-62ea-1bd0-2a546d9b1d9d",
+        "z": 5,
+        "objectID": "c94b1a0f-0f8d-f24e-d46a-6a8935e3990c",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 766.171443939209,
+          "y": 75.00000000000007
+        },
+        "size": {
+          "width": 116.37300453652847,
+          "height": 75
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd8a612e4-c243-b640-096b-8a26d4912363\" data-value=\"cb980c93-ee73-ce24-ac08-4728799882dd\" data-role=\"tag\">real world values</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "263a1f8c-0bc5-c8c4-bcb3-5f6ab56dc25e",
+        "z": 5,
+        "objectID": "7560459e-d861-91d7-8568-d29e7fd0f9d8",
+        "number": 18,
+        "numberPosition": {
+          "connectionAngle": 90,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 281.5141122564026
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "dec771f5-77d5-1079-725d-95e3703b094b",
+        "z": 6,
+        "objectID": "93223813-9a32-3a8d-4de2-43282bc927cd",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 180,
+          "y": 236.51411225640265
+        },
+        "size": {
+          "width": 119.99999999999994,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>input object 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "93e4f1a1-425c-49d3-6496-2f6ef7be1966",
+        "z": 6,
+        "objectID": "23941289-ae55-d8ce-4d37-c508135db8a5",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 355,
+          "y": 236.51411225640265
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>source object 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "5f06cb6d-3bb2-92ce-fda8-7bc70488859f",
+        "z": 6,
+        "objectID": "8d1d3b86-859a-5223-09d2-e80ecdca9ecc",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 475,
+          "y": 191.3395856329836
+        },
+        "size": {
+          "width": 120,
+          "height": 45.17452662341901
+        },
+        "angle": 0,
+        "label": "<p>target object 2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "a372a0e3-2af6-8d08-357f-6711490fdd32",
+        "z": 6,
+        "objectID": "ec92ff46-3eda-0ecb-dc03-c5bff4c3866f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 646.171443939209,
+          "y": 191.33958563298364
+        },
+        "size": {
+          "width": 120,
+          "height": 45.174526623418984
+        },
+        "angle": 0,
+        "label": "<p>output object 2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "f5d1a1fd-5ad0-5a04-a523-aebc6c2e27ad",
+        "z": 6,
+        "objectID": "0885998d-786d-ade2-70c8-827cc3d75212",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 766.171443939209,
+          "y": 146.33958563298364
+        },
+        "size": {
+          "width": 116.37300453652847,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd2b1c95a-fb7d-1839-53ce-3cf19565cfa5\" data-value=\"cd3fe7b3-f6a6-242e-f73e-acbf2082b3b2\" data-role=\"tag\">value</span> 1</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "8b346500-1d06-f33f-cf17-19edf09680dd",
+        "z": 6,
+        "objectID": "45f84718-ea9d-f6bc-7379-2242f463a6da",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id18a1c4ef-c413-a29b-f56f-6662c2eb418d\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 180,
+          "y": 281.5141122564026
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "c25a4cc1-7d4b-1958-00c4-4049a970b527",
+        "z": 7,
+        "objectID": "cacd37d2-da5b-52bb-8156-00fde7e0de80",
+        "number": null,
+        "numberPosition": {
+          "leadLineAngle": 300
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 355,
+          "y": 281.51411225640265
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "cecc7417-1572-2677-3f2f-b96d8810c4fe",
+        "z": 7,
+        "objectID": "9f7c7239-62a0-a9e0-08f7-489f45b17cc7",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 475,
+          "y": 236.51411225640263
+        },
+        "size": {
+          "width": 120,
+          "height": 44.99999999999994
+        },
+        "angle": 0,
+        "label": "<p>target&nbsp;object 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "f3022507-4338-c1c0-5e44-396155f69b1d",
+        "z": 7,
+        "objectID": "ac01ec6a-ee9b-4d44-0d06-7911f2ccbbbf",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 646.171443939209,
+          "y": 236.51411225640265
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>output object 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "68f3351b-5756-8ad7-25c2-bacfa389fab3",
+        "z": 7,
+        "objectID": "3901e533-9c8e-12fc-2f26-765e5b9f54b0",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 766.171443939209,
+          "y": 191.33958563298364
+        },
+        "size": {
+          "width": 116.37300453652847,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd193a227-de34-dad3-1a22-bdca9f771332\" data-value=\"cd3fe7b3-f6a6-242e-f73e-acbf2082b3b2\" data-role=\"tag\">value</span>&nbsp;2</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "a675d03f-700e-768c-039b-7990b5b6f592",
+        "z": 7,
+        "objectID": "b3c615ad-0bb4-c9f6-d333-e7b4f9167d49",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 475,
+          "y": 281.5141122564026
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "0164b3ce-646b-a986-d762-fd2953380e1a",
+        "z": 8,
+        "objectID": "f70c83af-fb65-a8d3-529a-0fe1ef9d06c0",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 646.171443939209,
+          "y": 281.5141122564026
+        },
+        "size": {
+          "width": 120,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "1443af33-dbf9-b79a-cb2a-96a90a948f23",
+        "z": 8,
+        "objectID": "7baca626-f2c5-0311-17ee-ca6ec27cd23f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 766.171443939209,
+          "y": 236.51411225640265
+        },
+        "size": {
+          "width": 116.37300453652847,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>value 3</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "18a9aa31-6df0-bda3-d58a-b03da313199c",
+        "z": 8,
+        "objectID": "53ad78ab-c53a-d854-4a91-90ca34f73f6f",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idb590c50e-7987-1240-2686-59afc3bd7139\" data-value=\"ae1b3ef0-cacb-d6d8-9298-264e2067ea1a\" data-role=\"tag\">node table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 616.2043601301416,
+          "y": 341.6679595351728
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id984c6c38-c700-1bdd-2c63-4b0223622e5b\" data-value=\"ab95fa46-c219-bb4e-78a4-f613b2c6425e\" data-role=\"tag\">node tables</span></p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "7c9d22d0-1399-4962-9b77-bfe1cea48aae",
+        "z": 9,
+        "objectID": "dd8e76e2-0d93-c46c-1db8-52ecc29d0574",
+        "number": 0,
+        "leadLinePosition": {
+          "connectionAngle": 150,
+          "leadLineAngle": 150
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idca1cc433-cc8d-8cb1-645a-63bccc60018f\" data-value=\"636a9b26-3dad-8870-c5f3-6fd67498bbf5\" data-role=\"tag\">actor table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 766.171443939209,
+          "y": 281.51411225640265
+        },
+        "size": {
+          "width": 116.37300453652847,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p>...</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "2a889e07-bca4-dc34-c87a-e254523d7708",
+        "z": 9,
+        "objectID": "e55c3027-52b1-b55b-082d-922e8f76985d",
+        "number": null,
+        "numberPosition": {
+          "connectionAngle": 300,
+          "leadLineAngle": 270,
+          "leadLineLength": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idc18e41f2-acdf-20fb-d537-f6c6d598ed4f\" data-value=\"58c9b2e6-5718-d289-ac30-686f462a7c8d\" data-role=\"tag\">sensor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 134.9527130126953,
+          "y": 371.9041655898603
+        },
+        "size": {
+          "width": 90,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id3cfc91d6-9c97-b21d-c413-55ea499bdc6b\" data-value=\"58c9b2e6-5718-d289-ac30-686f462a7c8d\" data-role=\"tag\">sensor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "c57a5d1b-f57a-45e2-a0ee-fc0df7c1f769",
+        "z": 10,
+        "objectID": "3667a583-0ac2-8ff5-fbd3-063beee34c05",
+        "number": 2,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "c57a5d1b-f57a-45e2-a0ee-fc0df7c1f769"
+        },
+        "target": {
+          "id": "c25a4cc1-7d4b-1958-00c4-4049a970b527",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0%",
+              "dy": "90%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "54d75f2e-e303-418e-918e-dfc65d28b2e1",
+        "z": 11,
+        "objectID": "c7896429-fa46-1125-6ca7-bbc22b86dfc6"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>node</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 444.9527130126953,
+          "y": 371.9041655898603
+        },
+        "size": {
+          "width": 90,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id7210c2cb-055f-7c42-a975-ddfb1e6d47a9\" data-value=\"ca686832-01d7-e89c-847a-9142f5472bbf\" data-role=\"tag\">node</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "bb8cb43b-6879-1a6f-2bfe-28d4faea5246",
+        "z": 11,
+        "objectID": "f6bc5fee-c305-5478-5bd3-3ed15941c59b",
+        "number": 4,
+        "numberPosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "circle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idd8e5c865-7a64-8dd5-c182-0de738d48972\" data-value=\"7f1eb476-17da-dc99-a02a-709fc6a43952\" data-role=\"tag\">actor</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 710.7970205755506,
+          "y": 371.9041655898603
+        },
+        "size": {
+          "width": 91,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id52e2d64c-6d2f-bcef-3642-7c02202500f7\" data-value=\"7f1eb476-17da-dc99-a02a-709fc6a43952\" data-role=\"tag\">actor</span></p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "bda0e517-e844-b7a8-8f66-f4fed94d2e64",
+        "z": 12,
+        "objectID": "cf56b448-4e54-6e4e-a50e-5bb0bf325585",
+        "number": 6,
+        "numberPosition": {
+          "connectionAngle": 270,
+          "leadLineAngle": 270
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "source",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bda0e517-e844-b7a8-8f66-f4fed94d2e64"
+        },
+        "target": {
+          "id": "bb8cb43b-6879-1a6f-2bfe-28d4faea5246"
+        },
+        "id": "5f78205d-e48e-4887-b85a-871a2c7030a0",
+        "z": 13,
+        "objectID": "09672384-f941-b619-7b86-330092510057"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "source",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bb8cb43b-6879-1a6f-2bfe-28d4faea5246"
+        },
+        "target": {
+          "id": "c57a5d1b-f57a-45e2-a0ee-fc0df7c1f769"
+        },
+        "id": "b3c071e1-9de0-4cfd-a5f9-9457ce5e8ba4",
+        "z": 14,
+        "objectID": "41aa265e-32bf-0ebe-b236-06cd477d788c"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "bda0e517-e844-b7a8-8f66-f4fed94d2e64",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "54%",
+              "dy": "42%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 885,
+          "y": 390
+        },
+        "id": "9c7152f3-b31f-4d62-a76c-3a3cd925d36e",
+        "z": 15,
+        "objectID": "40bdd2dc-7622-52ab-c53c-1f4973678173"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "source",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "straight",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "c57a5d1b-f57a-45e2-a0ee-fc0df7c1f769",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "48%",
+              "dy": "40%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "x": 0,
+          "y": 390
+        },
+        "id": "dc8e9b23-fc2f-4855-b0e7-0c45ba258a1b",
+        "z": 16,
+        "objectID": "736d492d-30dd-7a15-9d75-38c6a0befea7"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>item</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 4.560869248246092,
+          "y": 343.09727566723797
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "e1b80d3e-ed58-4d20-9aff-79e9542151f0",
+        "z": 17,
+        "objectID": "9e0895a6-8941-9b70-1f77-c45cec79fc96",
+        "number": 20,
+        "leadLinePosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 330
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 235.0472869873047,
+          "y": 400
+        },
+        "size": {
+          "width": 195,
+          "height": 24.315419751661363
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id81ef1214-4e66-7e43-1d25-168ea2565f04\" data-value=\"1e4ad91a-327d-0bf2-1df2-080d6a93aad0\" data-role=\"tag\">input correlithm objects</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "88d9feea-0810-40ea-7fe5-69727ab9eb07",
+        "z": 19,
+        "objectID": "023bb223-89a5-84c5-f100-4409227c9a65"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 526.9982223510742,
+          "y": 397.5
+        },
+        "size": {
+          "width": 180,
+          "height": 46.41445309546909
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id2d1c0b01-9b56-15bb-6a64-9dd476e21ab7\" data-value=\"ef39066b-e532-2d0b-9e24-b30e8186b8d4\" data-role=\"tag\">output correlithm objects</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "563c772b-fd53-fb4a-4384-ccfe009265a5",
+        "z": 20,
+        "objectID": "8ae97694-a612-032c-933c-9dc82cd4fc35"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 408.20442676135434,
+          "y": 348.0972888990403
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id49d2f03e-0703-db48-0695-8835749aa493\" data-value=\"ef39066b-e532-2d0b-9e24-b30e8186b8d4\" data-role=\"tag\">output correlithm objects</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "54edc013-4756-477b-94bc-1336ee2976e5",
+        "z": 21,
+        "objectID": "602f129a-0e9b-1b5b-028f-09029636124c",
+        "number": 16,
+        "leadLinePosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 782.3579462074732,
+          "y": 390
+        },
+        "size": {
+          "width": 84,
+          "height": 90
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"ide4abe6a9-917b-a902-7b34-ee6414272d9e\" data-value=\"90c90687-23f2-def8-8e60-b51e0478604c\" data-role=\"tag\">real world output value</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "31f5209b-ff26-700f-d687-e2277b5e68a6",
+        "z": 21,
+        "objectID": "30fa7c40-1ffd-24a6-f310-15e9c00fed77"
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 700.204387307263,
+          "y": 347.0972927936692
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"idd8a612e4-c243-b640-096b-8a26d4912363\" data-value=\"cb980c93-ee73-ce24-ac08-4728799882dd\" data-role=\"tag\">real world values</span></p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "532f5bfa-2fb2-4246-9f01-4ae5738adc47",
+        "z": 22,
+        "objectID": "7560459e-d861-91d7-8568-d29e7fd0f9d8",
+        "number": 18,
+        "leadLinePosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>item</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 771.5608145208631,
+          "y": 343.09728389801114
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "0d3b5f43-123a-4763-8c03-5d8ca0633f6d",
+        "z": 23,
+        "objectID": "4eda7d01-df51-48b6-730b-2efb2e94eabb",
+        "number": 22,
+        "leadLinePosition": {
+          "connectionAngle": 330,
+          "leadLineAngle": 330
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 838.3071136474609,
+          "y": 480
+        },
+        "size": {
+          "width": 56.69288635253906,
+          "height": 24.207877247849883
+        },
+        "angle": 0,
+        "label": "<p>\"Bob\"</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "983f08ca-8a0c-4225-9093-a2ccfcb98888",
+        "z": 24,
+        "objectID": "c58e422e-f392-9b5e-a2ae-bf7aced9f3ec"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "curved",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "983f08ca-8a0c-4225-9093-a2ccfcb98888"
+        },
+        "target": {
+          "id": "31f5209b-ff26-700f-d687-e2277b5e68a6",
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "100%",
+              "dy": "0%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "d6f3d1b3-e193-4f0f-ac88-74b02162ab5d",
+        "z": 25,
+        "objectID": "73dc3186-f5a5-4b49-6a9d-f7604cda7cb9",
+        "vertices": [
+          {
+            "x": 870,
+            "y": 435
+          },
+          {
+            "x": 855,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "person",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 60,
+          "y": 504.20787724784986
+        },
+        "size": {
+          "width": 30,
+          "height": 90
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "id": "aed24131-7c2d-4a25-a9ed-daa8727f9772",
+        "z": 26,
+        "objectID": "932e7df8-c3fa-2d9a-6d1f-765915931f70",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "routing": "curved",
+        "showLabel": true,
+        "defaultLabel": {
+          "attrs": {
+            "rect": {
+              "fill": "#ffffff",
+              "refWidth": 8,
+              "refX": -4
+            },
+            "text": {
+              "textAnchor": "middle",
+              "fontFamily": "OpenSansCondensedLight",
+              "fontSize": 18.6667,
+              "lineHeight": 21.000037499999998
+            }
+          }
+        },
+        "source": {
+          "id": "da56e7b4-96b5-49c8-9f08-f56ef761f212",
+          "connectionPoint": {
+            "name": "anchor"
+          },
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "18%",
+              "dy": "3%",
+              "rotate": true
+            }
+          }
+        },
+        "target": {
+          "id": "97f38a09-d521-42f0-9ee3-7518a5dbebde",
+          "connectionPoint": {
+            "name": "anchor"
+          },
+          "anchor": {
+            "name": "topLeft",
+            "args": {
+              "dx": "0%",
+              "dy": "5%",
+              "rotate": true
+            }
+          }
+        },
+        "id": "8a49d864-f4e8-4fcf-9704-08204da350f9",
+        "z": 27,
+        "objectID": "99e80c5b-592d-29c5-1e1d-216e1581b0c0",
+        "vertices": [
+          {
+            "x": 15,
+            "y": 450
+          },
+          {
+            "x": 30,
+            "y": 420
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>item</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 783.560854581672,
+          "y": 508.6679353309269
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "37307bfe-8203-44e8-a910-51c25197cc9d",
+        "z": 28,
+        "objectID": "97a8e79b-ea6d-de7b-d231-d44b587edf89",
+        "number": 26,
+        "leadLinePosition": {
+          "connectionAngle": 30,
+          "leadLineAngle": 30
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"idc8173067-3480-947f-47c7-eb2f1b06a866\" data-value=\"5ad4a4ea-204a-1c16-49ac-79a020991379\" data-role=\"tag\">actor tables</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 855.6679077148438,
+          "y": 350.6159330889769
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id893704b3-62a2-f5fb-9088-675e8046d0fc\" data-value=\"5ad4a4ea-204a-1c16-49ac-79a020991379\" data-role=\"tag\">actor tables</span></p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "3f1e7f0a-02bc-4f4c-a793-27a8b7322db7",
+        "z": 29,
+        "objectID": "188506ff-c47b-a0aa-5113-51fed0c25aba",
+        "number": 10,
+        "leadLinePosition": {
+          "connectionAngle": 120,
+          "leadLineAngle": 120,
+          "leadLineLength": 26
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-type=\"term\" id=\"id9e59d48b-3a98-19f7-0b10-c555d0e62b7c\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span></p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 314.66800988915577,
+          "y": 343.2044010230064
+        },
+        "size": {
+          "width": 30.2362060546875,
+          "height": 30.2362060546875
+        },
+        "angle": 0,
+        "label": "<p><span data-type=\"term\" id=\"id898511d5-03f0-1f3d-eee6-1341fa31dc36\" data-value=\"0a7b77e7-3288-6112-4287-46640571c07c\" data-role=\"tag\">sensor table</span></p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "showLeadLine": true,
+        "id": "dbde7eae-d5d9-4f70-aa12-9a89455ce28c",
+        "z": 30,
+        "objectID": "38296170-ce21-65c2-349a-dadd4e57145e",
+        "number": 8,
+        "leadLinePosition": {
+          "connectionAngle": 120,
+          "leadLineAngle": 120
+        }
+      }
+    ],
+    "tpVersion": 2
+  }
+}
